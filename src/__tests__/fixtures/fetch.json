@@ -1,0 +1,12 @@
+{
+  "401": {
+    "status": 401,
+    "error": "Unauthorized.",
+    "detail": "You are not allowed to see this content"
+  },
+  "500": {
+    "status": 500,
+    "error": "Sorry, something went wrong.",
+    "detail": "An unrecognized exception was thrown. Our developers have been alerted to the situation."
+  }
+}

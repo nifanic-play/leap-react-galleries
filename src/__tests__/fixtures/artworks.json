@@ -1,0 +1,1938 @@
+{
+  "get": {
+    "pagination": {
+      "total": 115841,
+      "limit": 10,
+      "offset": 0,
+      "total_pages": 11585,
+      "current_page": 1,
+      "next_url": "https://api.artic.edu/api/v1/artworks?page=2&limit=10"
+    },
+    "data": [
+      {
+        "id": 80075,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/80075",
+        "is_boosted": false,
+        "title": "Manao tupapau (She Thinks of the Ghost or The Ghost Thinks of Her), from the Noa Noa Suite",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAE9GO1JHOFZNQFtRRFtSRmNbTmVbTGRaTWhcTHFnW3ZrW3ltXHpuXX9yYIR3ZYp+bIR7cIZ9coh/c4yGfpeLeZCIfZaMfpSNgZaNgJiQhJ2ViKeahqGZjaSbjqifkayilLGnmLWrnLOsobexqMKym8e8rMzCs8jAtQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQBGmcsloLKdEoMEwCBAhyOYAIBQoJgnJMVgoHqVJxAP6cDqjIAA7",
+          "width": 3000,
+          "height": 1819,
+          "alt_text": "A work made of wood-block print, printed three times in reddish-brown, black, and light black ink, with touches of brush and black gouache and silver-gray watercolor (altered from black), on ivory laid japanese paper, laid down on ivory wove japanese paper (a laminate made by the artist)."
+        },
+        "main_reference_number": "1954.7",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1893,
+        "date_end": 1894,
+        "date_display": "1893/94",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Paul Gauguin\nFrench, 1848-1903",
+        "place_of_origin": "France",
+        "dimensions": "204 × 357 mm (image); 207 × 359 mm (sheet)",
+        "medium_display": "Wood-block print, printed three times in reddish-brown, black, and light black ink, with touches of brush and black gouache and silver-gray watercolor (altered from black), on ivory laid Japanese paper, laid down on ivory wove Japanese paper (a laminate made by the artist)",
+        "inscriptions": "Monogrammed lower left, in image: \"P G O\"",
+        "credit_line": "Clarence Buckingham Collection",
+        "publication_history": "Robert Goldwater and Carl O. Schniewind, Gauguin: Loan Exhibition for the Benefit of the Citizens’ Committee for Children of New York City, Inc., exh. cat. (Wildenstein & Co., 1956), p. 22, cat. 80.\n\nArt Institute of Chicago and Metropolitan Museum of Art, New York, Gauguin: Paintings, Drawings, Prints, Sculpture, exh. cat.  (Art Institute of Chicago, 1959), p. 84, cat. 146.\n\nHaus der Kunst, Paul Gauguin, with essays by Germain Bazin and Harold Joachim, exh. cat. (Ausstellungsleitung München e.V. Haus der Kunst, 1960), p. 31, cat. 175.\n\nOberes Belvedere, Paul Gauguin, 1848–1903, exh. cat. (Österreichische Galerie im Oberen Belvedere, 1960), p. 45, cat. 85.\n\nElizabeth Mongan, Eberhard W. Kornfeld, and Harold Joachim, Paul Gauguin: Catalogue Raisonné of His Prints, with assistance of Christine E. Stauffer (Galerie Kornfeld, 1988), p. 96, cat. 20.",
+        "exhibition_history": "New York, Wildenstein, \"Gauguin,\" April 5-May 5, 1956, p. 22, cat. 80.\n\nThe Art Institute of Chicago, \"Gauguin: Paintings, Drawings, Prints, Sculpture,\" February 12-March 29, 1959, p. 84, cat. 146; traveled to the Metropolitan Museum of Art, New York, April 21-May 31, 1959.\n\nMunich, Haus der Kunst, \"Paul Gauguin,\" April 1-May 29, 1960, p. 31, cat. 175.\n\nVienna, Österreichische Galerie im Oberen Belvedere, \"Paul Gauguin,\" June 7-July 31, 1960, p. 45, cat. 85.\n\nThe Art Institute of Chicago, \"Gauguin: Artist as Alchemist\",  June 25 - September 10, 2017, pp. 260, 263, cat. 206, cat. by Gloria Groom, et. al.",
+        "provenance_text": "Sold by Gerald Cramer, Geneva, to the Art Institute, 1954.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 3,
+        "fiscal_year": null,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 17.33,
+        "color": {
+          "h": 37,
+          "l": 71,
+          "s": 22,
+          "percentage": 0.16690925382974328,
+          "population": 719
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Print",
+        "artwork_type_id": 18,
+        "department_title": "Prints and Drawings",
+        "department_id": "PC-13",
+        "artist_id": 34611,
+        "artist_title": "Paul Gauguin",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          34611
+        ],
+        "artist_titles": [
+          "Paul Gauguin"
+        ],
+        "category_ids": [
+          "PC-13"
+        ],
+        "category_titles": [
+          "Prints and Drawings"
+        ],
+        "artwork_catalogue_ids": [
+          null,
+          null
+        ],
+        "term_titles": [
+          "woodcut",
+          "paper (fiber product)",
+          "print",
+          "prints and drawing"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-148",
+        "classification_title": "woodcut",
+        "alt_classification_ids": [
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_ids": [
+          "TM-148",
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_titles": [
+          "woodcut",
+          "print",
+          "prints and drawing"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "3bb24fce-f08d-d622-1041-d1eebe3ff119",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [
+          39607050878
+        ],
+        "section_titles": [
+          "Cat. 60.3  Manao tupapau (She Thinks of the Ghost or The Ghost Thinks of Her), 1893/94"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1954.7"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Manao tupapau (She Thinks of the Ghost or The Ghost Thinks of Her), from the Noa Noa Suite"
+            ],
+            "weight": 168,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T09:51:45-06:00",
+        "last_updated": "2022-01-26T09:55:58-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 63064,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/63064",
+        "is_boosted": false,
+        "title": "Auti te pape (Women at the River), from the Noa Noa Suite",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADszKj43KkI4J05AKE1DLUxEL1dIMVZLNlRJPF9SN2VTLmRQMnJdPGBVQm5fRX9lQ3pkRHxoQ3pwXXRvZnZvZnx0ZXt3cX99eZGCbY2IeZiJcJWNeJOMf42IgJKNg5qSgqmYgaqcgaiZh6+gjK2nm7q4tMG1psrCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwNMmc+F4OiXRw1BIBAahEQRxcDQIH9ACIGBEFBYTZkLRVCSkIAA7",
+          "width": 3000,
+          "height": 1810,
+          "alt_text": "A work made of wood-block print, printed twice in pale orange and black ink, over transferred yellow, pink, orange, blue and green oil-based media, with traces of conifer resin (probably pine resin), on cream wove japanese paper, laid down on cream wove japanese paper."
+        },
+        "main_reference_number": "1948.264",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1893,
+        "date_end": 1894,
+        "date_display": "1893/94",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Paul Gauguin\nFrench, 1848-1903",
+        "place_of_origin": "France",
+        "dimensions": "203 × 353 mm (image/primary/secondary support)",
+        "medium_display": "Wood-block print, printed twice in pale orange and black ink, over transferred yellow, pink, orange, blue and green oil-based media, with traces of conifer resin (probably pine resin), on cream wove Japanese paper, laid down on cream wove Japanese paper",
+        "inscriptions": "Monogrammed lower left, in image: \"P G O\"; inscribed verso, in brown ink: \"PG 15 mars,\" (changed from: \"10 mars\")",
+        "credit_line": "Clarence Buckingham Collection",
+        "publication_history": "Société du Salon d’Automne, Catalogue des ouvrages de peinture, sculpture, dessin, gravure, architecture et art décoratif, exh. cat. (Compagnie Française des Papiers-Monnaie, 1906), cat. 137.\n\nAntonio García de Linares, Primera exposición internacional de pintura y escultura, exh. cat. (Imp. Eléxpuru Hnos., 1919), p. 14, cat. 127.\n\nAssociation Paris–Amerique Latine, Exposition rétrospective: Hommage au génial artiste franco-péruvien Gauguin, with introductions by F. Cossio del Pomar and G. Daniel de Monfreid, exh. cat. (n.p., 1926), cat. 40.\n\nMarcel Guérin, L’oeuvre gravé de Gauguin (H. Floury, 1927; Alan Wofsy Fine Arts, 1980), cat. 35 (ill.).\n\nKunsthalle Basel, Paul Gauguin, 1848–1903, exh. cat. (Kunsthalle Basel, 1928), p. 25, cat. 108.\n\nKunsthalle Basel, Paul Gauguin, 1848–1903, exh. cat., 2nd ed. (Kunsthalle Basel, 1928), p. 30, cat. 218.\n\nGalerien Thannhauser, Paul Gauguin, 1848–1903, introduction by W. Barth, exh. cat. (Galerien Thannhauser, 1928), p. 15, cat. 194.\n\nLeicester Galleries, Catalogue of an Exhibition of the Durrio Collection of Works by Paul Gauguin, exh. cat. (Ernest Brown & Phillips, 1931), p. 6, cat. 14.\n\nBignou Gallery, Gauguin: First Trip to Tahiti, foreword by Carl O. Schniewind, exh. cat. (Bignou Gallery, 1939), n.pag., cat. 13.\n\nArt Institute of Chicago, Gauguin Prints (Art Institute of Chicago, 1959), n.pag. (ill.).\n\nArt Institute of Chicago and Metropolitan Museum of Art, New York, Gauguin: Paintings, Drawings, Prints, Sculpture, exh. cat. (Art Institute of Chicago, 1959), p. 85, cat. 161.\n\nHaus der Kunst, Paul Gauguin, with essays by Germain Bazin and Harold Joachim, exh. cat. (Ausstellungsleitung München e.V. Haus der Kunst, 1960), p. 33, cat. 183.\n\nOberes Belvedere, Paul Gauguin, 1848–1903, exh. cat. (Österreichische Galerie im Oberen Belvedere, 1960), p. 44, cat. 79.\n\nAlfred Langer, Paul Gauguin (VEB E.A. Seemann, Buch- und Kunstverlag, 1965), pp. 59–60, 87, pl. 21.\n\nJohn Maxon, The Art Institute of Chicago (Abrams, 1970), p. 135 (ill.).\n\nJacquelynn Baas and Richard S. Field, The Artistic Revival of the Woodcut in France, 1850–1900, exh. cat. (Ann Arbor, University of Michigan Museum of Art, 1984), pp. 109, 116, cat. 66 (ill.).\n\nPaul Gauguin, Noa Noa, transcription, ed. Pierre Petit, commentary by Bronwen Nicholson (J.-J. Pauvert, 1988), p. 123 (ill.).\n\nElizabeth Mongan, Eberhard W. Kornfeld, and Harold Joachim, Paul Gauguin: Catalogue Raisonné of His Prints, with assistance of Christine E. Stauffer (Galerie Kornfeld, 1988), pp. 71–72, cat. 16 (ill.)E\n\nRichard R. Brettell, Françoise Cachin, Claire Frèches-Thory, and Charles F. Stuckey, The Art of Paul Gauguin, with assistance from Peter Zegers, exh. cat. (National Gallery of Art, Washington, D.C./Art Institute of Chicago/New York Graphic Society Books, 1988), p. 322, cat. 167 (ill.).\n\nAdam Biro, Gauguin: La bibliothèque des expositions (A. Biro, 1988), p. 66, fig. 40a.\n\nAnna Maria Damigella, Paul Gauguin: La vita e l’opera (Mondadori, 1997), p. 188 (ill.).\n\nDario Gamboni, Potential Images: Ambiguity and Indeterminacy in Modern Art (Reaktion, 2002), p. 93, no. 68 (ill.).\n\nArt Institute of Chicago, Intimate Encounters: Paul Gauguin and the South Pacific; The Edward McCormick Blair Collection, exhibition brochure (Art Institute of Chicago, 2003), hors. cat.\n\nGeorge T. M. Shackelford and Claire Frèches-Thory, Gauguin Tahiti, with additional essays by Isabelle Cahn et al., exh. cat (MFA Publications, 2004), pp. 121, 124, 354, cat. 111b (ill.). Translated as Gauguin Tahiti: L’atelier du tropiques, exh. cat. (Réunion des Musées Nationaux, 2003), p. 377, cat. 112.\n\nJay E. Clarke, Becoming Edvard Munch, exh. cat. (Art Institute of Chicago/Yale University Press, 2009), pp. 144–46, fig. 156, 225, cat. 106.\n\nAlastair Wright and Calvin Brown, Gauguin’s Paradise Remembered: The Noa Noa Prints, exh. cat. (Princeton University Art Museum/Yale University Press, 2010), pp. 28, 130, cat. 16 (ill. and frontispiece ill.)\n\nJavier González de Durana, Miriam Alzuri, and María Amezaga, Francisco Durrio (1868–1940): Sobre las huellas de Gauguin (Museo de Bellas Artes de Bilbao, 2013), p. 219, no. 3 (ill.).\n\nDario Gamboni, “Volcano Equals Head Equals Kiln Equals Phallus: Connecting Gauguin’s Metaphors of the Creative Act,” Res [Peabody Museum] 63/64 (2013), pp. 95–96, fig. 2.",
+        "exhibition_history": "Paris, Grand Palais des Champs-Elysees, \"Salon d'Automne,\" 1906, cat. 137.\n\nBilbao, Spain, Escuelas de Berastegui, \"Primera Exposición Internacional de Pintura y Escultura,\" August-September, 1919, p. 14, cat. 127.\n\nParis, Association Paris Amerique Latine, \"Exposition Retrospective: Hommage au Génial Artiste Franca-Péruvien Gauguin,\" December 17, 1926, cat. 40.\n\nKunsthalle Basel, \"Paul Gauguin,\" July-August, 1928, p. 25, cat. 108 (1st ed.), p. 30, cat. 218 (2nd ed.).\n\nBerlin, Galerien Thannhauser, \"Paul Gauguin: 1848-1903,\" October 1928, p. 15, cat. 194.\n\nLondon, The Leicester Galleries, \"Catalogue of an Exhibition of the Durrio Collection of Works by Paul Gauguin (1848-1903),\" May-June, 1931, p. 6, cat. 14.\n\nNew York, Bignou Gallery, \"Gauguin: First Trip to Tahiti,\" January 3–14, 1939, cat. 13.\n\nThe Art Institute of Chicago, \"Gauguin: Paintings, Drawings, Prints, Sculpture,\" February 12-March 29, 1959, p. 85, cat. 161; traveled to the Metropolitan Museum of Art, New York, April 21-May 31, 1959.\n\nMunich, Haus der Kunst, \"Paul Gauguin,\" April 1-May 29, 1960, p. 33, cat. 183.\n\nVienna, Österreichische Galerie im Oberen Belvedere, \"Paul Gauguin,\" June 7-July 31, 1960, p. 44, cat. 79.\n\nAnn Arbor, Mich., The University of Michigan Museum of Art, \"The Artistic Revival of the Woodcut in France, 1850-1900,\" November 4, 1983-January 8, 1984, p. 109 and 116, cat. 66 (ill.), cat. by Jacquelynn Baas and Richard S. Field; traveled to the Yale University Art Gallery, New Haven. Conn., February 1-March 25, 1984, and the Baltimore Museum of Art, April 17-June 3, 1984.\n\nWashington, D.C., National Gallery of Art, \"The Art of Paul Gauguin,\" May 1-July 31, 1988, p. 322, cat. 167 (ill.); traveled to The Art Institute of Chicago, September 17-December 11, 1988.\n\nThe Art Institute of Chicago, \"Intimate Encounters: Paul Gauguin and the South Pacific, The Edward McCormick Blair Collection,\" September 6, 2003-January 11, 2004.\n\nBoston, Museum of Fine Arts and Paris, Grand Palais, \"Gauguin Tahiti,\" 2003-2004, pp. 121, 124, and 354, cat. 111b (ill.), cat. by George T. M. Shackelford and Claire Frèches-Thory; shown only in Boston, February 29-June 20, 2004.\n\nThe Art Institute of Chicago, \"Becoming Edvard Munch: Influence, Anxiety and Myth\", February 14-April 26, 2009, pp. 144-146, fig. 156, p. 225, cat. 106, cat. by Jay A. Clarke\n\nPrinceton University Art Museum, \"Gauguin's Paradise Remembered: The Noa Noa Prints,\" September 25, 2010-January 2, 2011, p. 28, 130, cat. 16 (ill. and frontispiece ill.).\n\nThe Art Institute of Chicago, \"Gauguin: Artist as Alchemist\",  June 25 - September 10, 2017, pp. 16, 31, 35, 188, 196, 208, 211, cat. 142, cat. by Gloria Groom, et. al.",
+        "provenance_text": "Francisco \"Paco\" Durrio (1868-1940), Paris [Kornfeld 1988].  Sold by Walter Geiser, Basel, to the Art Institute, 1948.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 3,
+        "fiscal_year": 1949,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 37.8285,
+        "color": {
+          "h": 45,
+          "l": 52,
+          "s": 71,
+          "percentage": 0.011186542589265117,
+          "population": 48
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Print",
+        "artwork_type_id": 18,
+        "department_title": "Prints and Drawings",
+        "department_id": "PC-13",
+        "artist_id": 34611,
+        "artist_title": "Paul Gauguin",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          34611
+        ],
+        "artist_titles": [
+          "Paul Gauguin"
+        ],
+        "category_ids": [
+          "PC-13"
+        ],
+        "category_titles": [
+          "Prints and Drawings"
+        ],
+        "artwork_catalogue_ids": [
+          null,
+          null,
+          null
+        ],
+        "term_titles": [
+          "woodcut",
+          "paper (fiber product)",
+          "print",
+          "prints and drawing"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-148",
+        "classification_title": "woodcut",
+        "alt_classification_ids": [
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_ids": [
+          "TM-148",
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_titles": [
+          "woodcut",
+          "print",
+          "prints and drawing"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "619cad6c-402f-d25b-fcf3-54cc2f4f020f",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [
+          39605080749
+        ],
+        "section_titles": [
+          "Cat. 59.2  Auti te pape (Women at the River), 1893/94"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1948.264"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Auti te pape (Women at the River), from the Noa Noa Suite"
+            ],
+            "weight": 271,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T09:51:44-06:00",
+        "last_updated": "2022-01-26T09:55:58-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 63022,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/63022",
+        "is_boosted": false,
+        "title": "Noa Noa (Fragrant), from the Noa Noa Suite",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADs1KEg6HlpQO25kTWVhV2lkWoJnNZh7SI98VZ2FVZmEXJ2HXKWMVamWa7SfcwAAACH5BAAAAAAALAAAAAADAAUAAAQL0K2WDENHiTAKIBEAOw==",
+          "width": 1376,
+          "height": 2250,
+          "alt_text": "A work made of wood-block print in black ink, with touches of reddish-brown watercolor and black ink, over yellow ink tone block and transferred golden-yellow, orange, and green oil-based media, some containing beeswax and conifer resin (probably pine resin), on cream japanese paper, laid down on heavy cream wove card."
+        },
+        "main_reference_number": "1948.255",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1893,
+        "date_end": 1894,
+        "date_display": "1893/94",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Paul Gauguin\nFrench, 1848-1903",
+        "place_of_origin": "France",
+        "dimensions": "358 × 205 mm",
+        "medium_display": "Wood-block print in black ink, with touches of reddish-brown watercolor and black ink, over yellow ink tone block and transferred golden-yellow, orange, and green oil-based media, some containing beeswax and conifer resin (probably pine resin), on cream Japanese paper, laid down on heavy cream wove card",
+        "inscriptions": "Monogrammed upper center, in image: \"P G O\"",
+        "credit_line": "Clarence Buckingham Collection",
+        "publication_history": "Société du Salon d’Automne, Catalogue des ouvrages de peinture, sculpture, dessin, gravure, architecture et art décoratif, exh. cat. (Compagnie Française des Papiers-Monnaie, 1906), cat. 138.\n\nMarcel Guérin, L’oeuvre gravé de Gauguin (H. Floury, 1927; Alan Wofsy Fine Arts, 1980), cat. 17.\n\nKunsthalle Basel, Paul Gauguin, 1848–1903, exh. cat. (Kunsthalle Basel, 1928), p. 25, cat. 114.\n\nKunsthalle Basel, Paul Gauguin, 1848–1903, exh. cat., 2nd ed. (Kunsthalle Basel, 1928), p. 30, cat. 224.\n\nGalerien Thannhauser, Paul Gauguin, 1848–1903, introduction by W. Barth, exh. cat. (Galerien Thannhauser, 1928), p. 15, cat. 200.\n\nLeicester Galleries, Catalogue of an Exhibition of the Durrio Collection of Works by Paul Gauguin, exh. cat. (Ernest Brown & Phillips, 1931), p. 5, cat. 1.\n\nBignou Gallery, Gauguin: First Trip to Tahiti, foreword by Carl O. Schniewind, exh. cat. (Bignou Gallery, 1939), n.pag., cat. 5.\n\nCarl O. Schniewind, “The Woodcuts of Paul Gauguin,” in Robert Goldwater and Carl O. Schniewind, Gauguin: Loan Exhibition for the Benefit of the Citizens’ Committee for Children of New York City, Inc., exh. cat. (Wildenstein & Co., 1956), p. 12 (ill. detail).\n\nArt Institute of Chicago and Metropolitan Museum of Art, New York, Gauguin: Paintings, Drawings, Prints, Sculpture, exh. cat. (Art Institute of Chicago, 1959), p. 81, cat. 144.\n\nHaus der Kunst, Paul Gauguin, with essays by Germain Bazin and Harold Joachim, exh. cat. (Ausstellungsleitung München e.V. Haus der Kunst, 1960), p. 31, cat. 174, pl. 85 (ill.).\n\nOberes Belvedere, Paul Gauguin, 1848–1903, exh. cat. (Österreichische Galerie im Oberen Belvedere, 1960), p. 45, cat. 86, pl. 28.\n\nRichard R. Brettell, Françoise Cachin, Claire Frèches-Thory, and Charles F. Stuckey, The Art of Paul Gauguin, with assistance from Peter Zegers, exh. cat. (National Gallery of Art, Washington, D.C./Art Institute of Chicago/New York Graphic Society Books, 1988), p. 323, cat. 170 (ill.).\n\nElizabeth Mongan, Eberhard W. Kornfeld, and Harold Joachim, Paul Gauguin: Catalogue Raisonné of His Prints, with assistance of Christine E. Stauffer (Galerie Kornfeld, 1988), p. 52, cat. 13.\n\nAdam Biro, Gauguin: La bibliothèque des expositions (A. Biro, 1988), p. 66, fig. 40b.\n\nPeter Kort Zegers, “In the Kitchen with Paul Gauguin: Devising Recipes for a Symbolist Graphic Aesthetic,” in The Broad Spectrum: Studies in the Materials, Techniques, and Conservation of Color on Paper, ed. Harriet K. Stratis and Britt Salvesen (Archetype, 2002), p. 139, fig. 3.2.\n\nGeorge T. M. Shackelford and Claire Frèches-Thory, Gauguin Tahiti, with additional essays by Isabelle Cahn et al., exh. cat (MFA Publications, 2004), pp. 118–19, 354, cat. 107 (ill.). Translated as Gauguin Tahiti: L’atelier du tropiques, exh. cat. (Éds. de la Réunion des Musées Nationaux, 2003), pp. 142–43, fig. 6, 168, 376, cat. 107.\n\nMartine Regnault, Paul Gauguin: La trace écrite (Éd. Universitaires de Dijon, 2005), p. 105 (ill.).\n\nJavier González de Durana, Miriam Alzuri, and María Amezaga, Francisco Durrio (1868–1940): Sobre las huellas de Gauguin, exh. cat. (Museo de Bellas Artes de Bilbao, 2013), p. 221, no. 13.",
+        "exhibition_history": "Paris, Grand Palais des Champs-Elysees, \"Salon d'Automne,\" 1906, cat. 148.\n\nKunsthalle Basel, \"Paul Gauguin,\" July-August, 1928, p. 25, cat. 114 (1st ed.), p. 30, cat. 224 (2nd ed.).\n\nBerlin, Galerien Thannhauser, \"Paul Gauguin: 1848-1903,\" October 1928, p. 15, cat. 200.\n\nLondon, The Leicester Galleries, \"Catalogue of an Exhibition of the Durrio Collection of Works by Paul Gauguin (1848-1903),\" May-June, 1931, p. 5, cat. 1.\n\nNew York, Bignou Gallery, \"Gauguin: First Trip to Tahiti,\" January 3–14, 1939, cat. 5.\n\nThe Art Institute of Chicago, \"Gauguin: Paintings, Drawings, Prints, Sculpture,\" February 12-March 29, 1959, p. 81, cat. 144; traveled to the Metropolitan Museum of Art, New York, April 21-May 31, 1959.\n\nMunich, Haus der Kunst, \"Paul Gauguin,\" April 1-May 29, 1960, p. 31, cat. 174, pl. 85 (ill.).\n\nVienna, Österreichische Galerie im Oberen Belvedere, \"Paul Gauguin,\" June 7-July 31, 1960, p. 45, cat. 86, pl. 28.\n\nWashington, D.C., National Gallery of Art, \"The Art of Paul Gauguin,\" May 1-July 31, 1988, p. 323, cat. 170 (ill.); traveled to The Art Institute of Chicago, September 17-December 11, 1988.\n\nBoston, Museum of Fine Arts and Paris, Grand Palais, Paris, \"Gauguin Tahiti,\" 2003-2004, pp. 118-119, 354 cat. 107 (ill.), cat. by George T. M. Shackelford and Claire Frèches-Thory; shown in Boston, February 29-June 20, 2004, and Paris, September 30, 2003-January 19, 2004.\n\nDec. 11, 1988; Paris, Galeries Nationales du Grand Palais, as Gauguin, Jan. 10–Apr. 20, 1989 (Washington, D.C., and Chicago only).\n\nParis, Galeries Nationales du Grand Palais, Gauguin Tahiti, Sept 30, 2003–Jan. 19, 2004, cat. 107 (ill.); Boston, Museum of Fine Arts, Feb. 29–June 20, 2004.\n\nThe Art Institute of Chicago, \"Gauguin: Artist as Alchemist\",  June 25 - September 10, 2017, pp. 212, 214, cat. 147, cat. by Gloria Groom, et. al.",
+        "provenance_text": "Francisco \"Paco\" Durrio (1868-1940), Paris [Kornfeld 1988].  Sold by Walter Geiser, Basel, to the Art Institute, 1948.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 3,
+        "fiscal_year": 1949,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 50.611,
+        "color": {
+          "h": 38,
+          "l": 54,
+          "s": 45,
+          "percentage": 0.0909048649597901,
+          "population": 1056
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Print",
+        "artwork_type_id": 18,
+        "department_title": "Prints and Drawings",
+        "department_id": "PC-13",
+        "artist_id": 34611,
+        "artist_title": "Paul Gauguin",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          34611
+        ],
+        "artist_titles": [
+          "Paul Gauguin"
+        ],
+        "category_ids": [
+          "PC-13"
+        ],
+        "category_titles": [
+          "Prints and Drawings"
+        ],
+        "artwork_catalogue_ids": [
+          null,
+          null,
+          null
+        ],
+        "term_titles": [
+          "woodcut",
+          "paper (fiber product)",
+          "print",
+          "prints and drawing"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-148",
+        "classification_title": "woodcut",
+        "alt_classification_ids": [
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_ids": [
+          "TM-148",
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_titles": [
+          "woodcut",
+          "print",
+          "prints and drawing"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "2a48c1b3-eee9-e3fc-2e89-d549106377cd",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [
+          39591291218
+        ],
+        "section_titles": [
+          "Cat. 51.3  Noa Noa (Fragrant), 1893/94"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1948.255"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Noa Noa (Fragrant), from the Noa Noa Suite"
+            ],
+            "weight": 291,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T09:51:44-06:00",
+        "last_updated": "2022-01-26T09:55:58-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 202383,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/202383",
+        "is_boosted": false,
+        "title": "Bather With Outstretched Arms (recto); Study of a Tree (verso)",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJWId5qMeJ6PfKaXgqeYhKmYgquag6mZhLCehrGfh7KhiLOhibWjirSjjL2pjwAAACH5BAAAAAAALAAAAAADAAUAAAQLMClnwjoCEVDaYBEAOw==",
+          "width": 5293,
+          "height": 7999,
+          "alt_text": "A work made of graphite on cream laid paper (pieced)."
+        },
+        "main_reference_number": "2019.840",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1874,
+        "date_end": 1877,
+        "date_display": "1874/77",
+        "date_qualifier_title": "Made",
+        "date_qualifier_id": 4,
+        "artist_display": "Paul Cézanne\nFrench, 1839–1906",
+        "place_of_origin": "France",
+        "dimensions": "179 × 111 mm",
+        "medium_display": "Graphite on cream laid paper (pieced)",
+        "inscriptions": null,
+        "credit_line": "Gift of Richard and Mary L. Gray",
+        "publication_history": "Else Cassirer, Künstlerbriefe aus dem neunzehnten Jahrhundert (B. Cassirer, 1923), p. 602 (ill.). \n\nGeorges Rivière, Le Maître Paul Cézanne (H. Floury, 1923), p. 118 (ill.).  \n\nLionello Venturi, Cézanne: Son art, son oeuvre (P. Rosenberg, 1936), vol. 1, no. 1260; vol. 2, pl. 347.  \n\nTheodore Reff, \"Cézanne's Bather with Outstretched Arms,” Gazette des beaux-arts 59 (Mar. 1962), pp. 173–90, esp. p. 188 n. 13a. \n\nAdrien Chappuis, The Drawings of Paul Cézanne: A Catalogue Raisonné (New York Graphic Society, 1973), vol. 1, no. 385; vol. 2, pl. 385.  \n\nGuila Ballas, Cézanne: Baigneuses et baigneurs: Thème et composition (Dyonon/Adam Biro, 2002), p. 318 n. 43.",
+        "exhibition_history": "Paris, Galerie Renou and Colle, Aquarelles et baignades de Cézanne, 1935.  \n\nBasel, Kunsthalle, Paul Cézanne, 1936, cat. 128.  \n\nArt Institute of Chicago, Gray Collection: Seven Centuries of Art, Sept. 25, 2010–Jan. 2, 2011, cat. 71 (ill.).\n\nThe Art Institute of Chicago, \"Pure Drawing: Seven Centuries of Art from the Gray Collection\", January 25 - May 10, 2020, pp. 72-73, fig. 7, p. 141, GC 93, traveled to New York, The Morgan Library, February 19 - June 6, 2021, and Berkeley CA, UC Berkeley Art Museum and Pacific Film Archive, August 4 - November 28, 2021.",
+        "provenance_text": "The artist's son, Paul Cézanne (1872-1947), Paris, to at least 1936 [Basel 1936].  Jacques Dubourg (1897–1981), Paris; by descent.  Sold, Christie's, London, Feb. 5, 2004, lot 312, to Richard and Mary L. Gray, Chicago; given to the Art Institute of Chicago, 2019.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 3,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "colorfulness": 0,
+        "color": null,
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Drawing and Watercolor",
+        "artwork_type_id": 14,
+        "department_title": "Prints and Drawings",
+        "department_id": "PC-13",
+        "artist_id": 40482,
+        "artist_title": "Paul Cézanne",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          40482
+        ],
+        "artist_titles": [
+          "Paul Cézanne"
+        ],
+        "category_ids": [
+          "PC-13"
+        ],
+        "category_titles": [
+          "Prints and Drawings"
+        ],
+        "artwork_catalogue_ids": [],
+        "term_titles": [
+          "paper (fiber product)",
+          "drawings (visual works)",
+          "paper",
+          "grapite",
+          "graphite",
+          "laid paper",
+          "prints and drawing"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-5",
+        "classification_title": "drawings (visual works)",
+        "alt_classification_ids": [
+          "TM-145",
+          "TM-13648",
+          "TM-4"
+        ],
+        "classification_ids": [
+          "TM-5",
+          "TM-145",
+          "TM-13648",
+          "TM-4"
+        ],
+        "classification_titles": [
+          "drawings (visual works)",
+          "paper",
+          "grapite",
+          "prints and drawing"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [
+          "TM-2410",
+          "TM-3070"
+        ],
+        "material_ids": [
+          "TM-2982",
+          "TM-2410",
+          "TM-3070"
+        ],
+        "material_titles": [
+          "paper (fiber product)",
+          "graphite",
+          "laid paper"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "47334ac0-1e40-5ea9-441a-dcff510643b4",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.840"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Bather With Outstretched Arms (recto); Study of a Tree (verso)"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T09:51:45-06:00",
+        "last_updated": "2022-01-26T09:55:57-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 12194,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/12194",
+        "is_boosted": false,
+        "title": "5907",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAwMDR0eFh4jHR8kHyMgGiYlHxsmLh43PjEuJGZgPxk4RyhHTStITSpGUldXT2ZqXUtgZ0toc1BseHh1ZWt+fZWTeCxriFmEmISVmpiikJqlk5umk5Olm5eom4+moba+ram5s9HLnMXCpgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQFHFAYlIMKEE4LBgUDgNA6GAmFwsisBA8AB5OpuM5hMEADs=",
+          "width": 3000,
+          "height": 2136,
+          "alt_text": "A work made of color aquatint, with drypoint, on paper."
+        },
+        "main_reference_number": "1960.549",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1959,
+        "date_end": 1959,
+        "date_display": "1959",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Fayga Ostrower\nBrazilian, born Poland, 1920-2001",
+        "place_of_origin": "Brazil",
+        "dimensions": "323 × 495 mm",
+        "medium_display": "Color aquatint, with drypoint, on paper",
+        "inscriptions": null,
+        "credit_line": "Gift of Mr. and Mrs. John Frankel",
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "publishing_verification_level": "Web Basic",
+        "internal_department_id": 3,
+        "fiscal_year": null,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "colorfulness": 30.7227,
+        "color": {
+          "h": 188,
+          "l": 33,
+          "s": 58,
+          "percentage": 0.0937129300118624,
+          "population": 474
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Print",
+        "artwork_type_id": 18,
+        "department_title": "Prints and Drawings",
+        "department_id": "PC-13",
+        "artist_id": 19772,
+        "artist_title": "Fayga Ostrower",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          19772
+        ],
+        "artist_titles": [
+          "Fayga Ostrower"
+        ],
+        "category_ids": [
+          "PC-829",
+          "PC-13",
+          "PC-825"
+        ],
+        "category_titles": [
+          "Latin American",
+          "Prints and Drawings",
+          "Women artists"
+        ],
+        "artwork_catalogue_ids": [],
+        "term_titles": [
+          "aquatint",
+          "paper (fiber product)",
+          "print",
+          "prints and drawing"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-147",
+        "classification_title": "aquatint",
+        "alt_classification_ids": [
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_ids": [
+          "TM-147",
+          "TM-17",
+          "TM-4"
+        ],
+        "classification_titles": [
+          "aquatint",
+          "print",
+          "prints and drawing"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Latin American",
+          "Women artists"
+        ],
+        "image_id": "ca757fce-73c4-1cb3-b275-c124a54ec965",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1960.549"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "5907"
+            ],
+            "weight": 365,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T07:41:55-06:00",
+        "last_updated": "2022-01-26T07:45:58-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 9614,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/9614",
+        "is_boosted": false,
+        "title": "Haunted House",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABsXFR4ZFh4cHSEcFiAgJS0qJycnLDIrKj86M0YsJkxEOjk6RldGVGFRRn5nWYV3Yoh6Zp+NcaqYdKubggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIAJNTxFJytA4B5AwixAQRggAOw==",
+          "width": 2003,
+          "height": 2250,
+          "alt_text": "A work made of oil on canvas."
+        },
+        "main_reference_number": "1931.707",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1930,
+        "date_end": 1930,
+        "date_display": "1930",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Morris Kantor\nAmerican, born Russia (now Belarus), 1896–1974",
+        "place_of_origin": "United States",
+        "dimensions": "94.3 × 84.5 cm (37 1/8 × 33 1/4 in.)",
+        "medium_display": "Oil on canvas",
+        "inscriptions": "Signed and dated lower right: M. Kantor / 1930",
+        "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+        "publication_history": "\"'Odd' Painting Wins 1st Prize at Show Here,\" Chicago Daily News, Month illeg. 29, 1931.  Probably Oct. \n\nEleanor Jewett, \"Fine Statues on Display at Art Institute,\" Chicago Tribune, Oct. 20, 1931.\n\nEleanor Jewett, American Exhibition at Institute: Jury Awards First Prize of $2,500 to Morris Kantor for His Canvas, 'Haunted House,'\" Chicago Tribune, Nov. 1, 1931, G4.\n\n\"Chicago's Annual Draws Eyes of Fighters for American Art,\" Art Digest 6, 3 (Nov. 1, 1931), 3–4, ill. p. 3.\n\n“Paintings by Morris Kantor,” Bulletin of the Art Institute of Chicago 25, 9 (December 1931), cover ill., 127.\n\nC. J. Bulliet, \"Art Institute of Chicago Annual Exhibition of American Paintings and Sculpture,\" Creative Art 9 (December 1931), 493–5, ill. p. 493.\n\n\"The Forty–fourth Annual at Chicago,\" American Magazine of Art 23 (Dec. 1931), 487, ill. p. 486.\n\nDaniel Catton Rich, “Fifty Years at Chicago,” Magazine of Art 32, 12 (December 1939), 721.\n\nMorris Kantor, \"Ends and Means,\" Magazine of Art, 33 (March 1940), ill. p. 143.\n\nAnita Ventura, “The Paintings of Morris Kantor,” Arts 30, 7 (May 1956), 31.\n\nMatthew Baigell, \"The Beginnings of 'The American Wave' and the Depression,\" Art Journal 27, 4 (Summer 1968), 391–92, ill. p. 392.\n\nMatthew Baigell, The American Scene: American Painting of the 1930's (Praeger Publishers, 1974), 21, ill. 7, 22.\n\nJudith A. Barter et al., American Modernism at the Art Institute of Chicago, From World War I to 1955, (Chicago: Art Institute of Chicago/Yale University Press, 2009), cat. 80.",
+        "exhibition_history": "Art Institute of Chicago, Forty–Fourth Annual Exhibition of American Paintings and Sculpture, Oct 29–Dec 13, 1931, cat. 97, pl. 97 (Mr. and Mrs. Frank G. Logan Medal).\n\nArt Institute of Chicago, Paintings by Morris Kantor, Dec 22, 1931–Jan 17, 1932, no cat.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, Jun 1–Nov 1, 1933, cat. 573.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, Jun 1–Nov 1, 1934, cat. 601.\n\nNew York, The Buffalo Fine Arts Academy, Albright Art Gallery, Art of Today, Jan 3–31, 1936. Late loan, not in catalogue but confirmed by archival documentation.\n\nArt Institute of Chicago, Half a Century of American Art, Nov 16, 1939–Jan 7, 1940, cat. 88, pl. XLVII.\n\nNew York, Museum of Modern Art, Romantic Painting in America, Nov 15, 1943–Feb 16, 1944, ; Milwaukee Art Institute, Mar 3–31, 1944; Northampton, Massachusetts, Smith College Museum of Art, Apr 15–Jun 20, 1944; San Francisco Museum of Art, Aug 15–Sep 17, 1944; Oregon, Portland Art Museum, Oct 1–29, 1944; Seattle Art Museum, Nov 10–Dec 10, 1944; City Museum of St. Louis, Jan 2–30, 1945; University Gallery, University of Minnesota, Feb 13–Mar 13, 1945; St. Paul Gallery and School of Art, Apr 1–29, 1945, cat. 19, ill.\n\nOhio, Columbus Gallery of Fine Arts, Twelve Contemporary Americans, Oct 4–Nov 13, 1945, unnumbered checklist.\n\nLondon, The Tate Gallery, American Painting for the Eighteenth Century to the Present Day, Jun–Jul 1946, cat. 126.\n\nIowa, Davenport Municipal Art Gallery, Morris Kantor Retrospective, Jun 3–27, 1965, cat. 4.\n\nColumbus, Ohio State University, America, Oct 13–31, 1968, no cat.\n\nReno, Sierra Nevada Museum of Art, 1931 America: The Artist’s View, Sep 12–Oct 30, 1982, San Diego State University, Nov 20–Dec 18, 1982, unnumbered checklist.\n\nArt Institute of Chicago, America After the Fall: Painting in the 1930s, Jun 5–Sep 18, 2016; Paris, Musee de l'Orangerie, Oct 15, 2016–Jan 30, 2017; London, Royal Academy, Feb 25–Jun 4, 2017, cat. 28.\n\nToledo, OH, Toledo Museum of Art, Supernatural America: The Paranormal in American Art, Jun 12–Sept 5, 2021; Louisville, KY, Speed Art Museum, Oct 7, 2021–Jan 2, 2022; Minneapolis, MN, Minneapolis Insittute of Art, Feb 19–May 15, 2022.",
+        "provenance_text": "Morris Kantor (1896–1974), 1930; sold to the Art Institute of Chicago, 1931.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 21,
+        "fiscal_year": 1932,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "colorfulness": 29.541,
+        "color": {
+          "h": 46,
+          "l": 51,
+          "s": 66,
+          "percentage": 0.0012526289550193468,
+          "population": 10
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": "<p>On loan</p>",
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Painting",
+        "artwork_type_id": 1,
+        "department_title": "Arts of the Americas",
+        "department_id": "PC-3",
+        "artist_id": 35195,
+        "artist_title": "Morris Kantor",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          35195
+        ],
+        "artist_titles": [
+          "Morris Kantor"
+        ],
+        "category_ids": [
+          "PC-834",
+          "PC-3"
+        ],
+        "category_titles": [
+          "Halloween",
+          "Arts of the Americas"
+        ],
+        "artwork_catalogue_ids": [],
+        "term_titles": [
+          "oil on canvas",
+          "oil paint (paint)",
+          "Surrealism",
+          "architecture",
+          "canvas",
+          "painting",
+          "modern and contemporary art",
+          "Modernism",
+          "Century of Progress",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "style_id": "TM-7551",
+        "style_title": "Surrealism",
+        "alt_style_ids": [
+          "TM-5981"
+        ],
+        "style_ids": [
+          "TM-7551",
+          "TM-5981"
+        ],
+        "style_titles": [
+          "Surrealism",
+          "Modernism"
+        ],
+        "classification_id": "TM-66",
+        "classification_title": "oil on canvas",
+        "alt_classification_ids": [
+          "TM-9",
+          "TM-155"
+        ],
+        "classification_ids": [
+          "TM-66",
+          "TM-9",
+          "TM-155"
+        ],
+        "classification_titles": [
+          "oil on canvas",
+          "painting",
+          "modern and contemporary art"
+        ],
+        "subject_id": "TM-12085",
+        "alt_subject_ids": [
+          "TM-12169",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_ids": [
+          "TM-12085",
+          "TM-12169",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_titles": [
+          "architecture",
+          "Century of Progress",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "material_id": "TM-2451",
+        "alt_material_ids": [
+          "TM-3124"
+        ],
+        "material_ids": [
+          "TM-2451",
+          "TM-3124"
+        ],
+        "material_titles": [
+          "oil paint (paint)",
+          "canvas"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Halloween"
+        ],
+        "image_id": "0330a6dd-774e-eff1-0073-2be5f85b81d0",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1931.707"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Haunted House"
+            ],
+            "weight": 6051,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T00:30:01-06:00",
+        "last_updated": "2022-01-26T00:31:40-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 8969,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/8969",
+        "is_boosted": false,
+        "title": "Beggar with Oysters (Philosopher)",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABAQDRMRDhMSDxQSDhgUDwkRFBESEBgVEB8bFRoaGBgcHColIDs0Kkc+L0hBNgAAACH5BAAAAAAALAAAAAADAAUAAAQL8CAi1ADFrBQcaxEAOw==",
+          "width": 1312,
+          "height": 2250,
+          "alt_text": "A work made of oil on canvas."
+        },
+        "main_reference_number": "1931.504",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1860,
+        "date_end": 1870,
+        "date_display": "1865/67",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Édouard Manet\nFrench, 1832-1883",
+        "place_of_origin": "France",
+        "dimensions": "188.0 × 111.0 cm (74 × 43 5/16 in.)",
+        "medium_display": "Oil on canvas",
+        "inscriptions": "Inscribed lower left: Manet",
+        "credit_line": "Arthur Jerome Eddy Memorial Collection",
+        "publication_history": "Hippolyte Babou, “Les dissidents de l’exposition: M. Édouard Manet,” Revue libérale 2 (June–July 1867), pp. 288–89.\n\nEugène Muntz, “Exposition internationale de Munich,” Gazette des Beaux-Arts ser. 2, 2 (1869), p. 309.\n\nDuranty, “L’Exposition de Peinture au Cercle de L’Union Artistique”, Paris-Journal, February 19, 1870.\n\nJules-Michel Godet, “Œuvres de M. Ed. Manet (24 photographies),” Bibliographie de la France, 189 (April 20, 1872), cat. 5.\n\nAnatole Godet, Exposition rétrospective de l’œuvre d’Edouard Manet, Paris, École des Beaux-Arts, 6 au 28 janvier 1884 (Paris, 1884), [no pag.].\n\nJoséphin Péladan, “Le Procédé de Manet, d’après l’exposition faite à l’ École des Beaux-Arts,” L’Artiste (February 1884), p. 109.\n\nArthur J. Eddy, “Édouard Manet, Painter,” Brush and Pencil 1, 5 (February 1898), pp. 136 (ill.), 138.\n\nThéodore Duret, Histoire d’Édouard Manet et de son œuvre (Paris: H. Floury, 1902), pp. 70, 208, no. 65. \n\nThéodore Duret, Manet and the French Impressionists (London: Grants Richards and Philadelphia: J. B. Lippincott company, 1910), p. 219, no. 65.\n\nJulius Meier-Graefe, Édouard Manet (Munich: R. Piper, 1912), pp. 82, 310, pl. 46. \n\nAntonin Proust, Édouard Manet (Paris: H. Laurens, 1913), pp. 53, 164.\n\nEmil Waldmann, Édouard Manet (Berlin: Paul Cassirer), 1923, p. 46. \n\nJacques-Émile Blanche, Manet (Paris: Rieder, 1924), p. 38. \n\nM. C., “Manets in the Art Institute of Chicago,” Bulletin of The Art Institute of Chicago 18, 4 (1924), p. 47. \n\nÉtienne Moreau-Nélaton, Manet raconté par lui-même (Paris, H. Laurens, 1926), vol. 1, p. 76, fig. 79, vol. 2, p. 128, no. 29.\n\nThéodore Duret, Histoire d’Édouard Manet et de son œuvre (Paris: Berheim-Jeune, 1926), pp. 86, 243, no. 65.\n\nAdolphe Tabarant, Manet. Histoire catalographique (Paris: Éditions Montaigne, 1931), p. 145, cat. 104.\n\nPaul Jamot and Georges Wildenstein, Manet (Paris: Les Beaux-Arts, éditions d’études et de documents, 1932), vol. 1, p. 130, cat. 111, vol. 2, p. 9, fig. 29.\n\n“Manet and Renoir,” Philadelphia Museum of Art Bulletin 29, 158 (December 1933), p. 17.\n\nDaniel Catton Rich, “L’Exposition d’Art Français de l’Art Institute of Chicago,” Formes (1933), p. 382.\n\nRobert Rey, Manet (New York: French and European Publications and Paris: Hypérion Press, 1938), pp. 14, 162, pl. 44.\n\nLionello Venturi, Les Archives de l’Impressionnisme vol. 2 (Paris and New York: Durand-Ruel, 1939), p. 190.\n\nGotthard Jedlicka, Édouard Manet (Erlenbach–Zürich: E. Rentsch, 1941), pp. 83, 397. \n\nHans Huth, “Impressionism Comes to America,” Gazette des Beaux-Arts (April 1946), pp. 236 (ill.), 242.\n\nAdolphe Tabarant, Manet et ses Œuvres (Paris: Gallimard, 1947), pp. 115, 172, 536, 605 (ill.), no. 111.\n\nMichel Florisoone, Manet (Monaco: Documents d'art, 1947), pp. XIX, XXI. \n\nCharles Fabens Kelley, “Chicago: Record Years,” Art News 51, 4 (Summer 1952), p. 108.\n\nArt Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago: Art Institute of Chicago, 1961), p. 269. \n\nAnne Coffin Hanson, Édouard Manet 1832-1883, exh. cat. (Philadelphia: Philadelphia Museum of Art, 1966), pp. 45, 92 (ill.), 93, cat. 73.\n\nFrederick A. Sweet, “Great Chicago Collectors,” Apollo 84 (September 1966), p. 197.\n\nSandra Orienti and Phoebe Pool, The Complete Paintings of Manet (New York: Harry N. Abrams, 1967), p. 95, cat. 95 (ill.).\n\nAnne Coffin Hanson, “Manet’s Subject Matter and a Source of Popular Imagery,” The Art Institute of Chicago Museum Studies 3 (1968), pp. 74, 76 (ill.), 77–78, fig. 18.\n\nDenis Rouart and Daniel Wildenstein, Édouard Manet, catalogue raisonné (Lausanne: La Bibliothèque des Arts, 1975), vol. 1, p. 100-01 (ill.), cat. 99.\n\nAnne Coffin Hanson, Manet and the Modern Tradition (New Haven and London: Yale University Press, 1977), p. 65.\n\nMarilyn Brown, Gypsies and Other Bohemians: The Myth of the Artist in Nineteenth-Century France (Ann Arbor, Michigan: UMI Research Press, 1985), p. 81. \n\nKathleen Adler, Manet (Topsfield, Massachusetts: Salem House/Phaidon, 1986), pp. 80–82, fig. 69.\n\nHorst Keller, Edouard Manet (Munich: Bruckmann, 1989), p. 27, ill. 19.\n\nJean C. Harris, Edouard Manet: The Graphic Work, a Catalogue Raisonné (San Francisco: Alan Wofsy Fine Arts, 1990), p. 150.\n\nÉric Darragon, Manet (Paris: Éditions Citadelle, 1991), pp. 162, 165, fig. 86. \n\nVivien Perutz, Édouard Manet (Lewisburg, Pennsylvania: Bucknell University Press and London: Associated University Presses, 1993), pp. 48, 67–68, fig. 38. \n\nKathleen Pyne, Art and the Higher Life: Painting and Evolutionary Thought in Late Nineteenth-Century America (Austin: University of Texas Press, 1996), pp. 226–27, fig. 5.1.\n\nMichael Fried, Manet’s Modernism or, the Face of Painting in the 1860s (Chicago: University of Chicago Press, 1996), pp. 333–34, 336. \n\nIsabelle Cahn, Isabelle Alzieu, Stéphane Guégan, et al., Manet: Les Natures mortes (Paris: Beaux-Arts Magazine, 2000), p. 86. \n\nNancy Locke, Manet and the Family Romance (Princeton: Princeton University Press, 2001), pp. 56 (ill.), 62.\n\nRebecca Stott, Oyster (London: Reaktion, 2004), pp. 128, 129 (ill.), 130.\n\nMaria Teresa Benedetti, Manet (Milan: Skira, 2005), pp. 33–34, fig. 15.  \n\nRichard R. Brettell and Stephen F. Eisenman, Nineteenth-Century Art in the Norton Simon Museum (New Haven: Yale University Press, 2006), vol. 1, pp. 258, 261, fig. 68b.\n\nGloria Groom and Douglas Druick, The Age of Impressionism at the Art Institute of Chicago (Chicago: Art Institute of Chicago and New Haven: Yale University Press, 2008; revised ed., Art Institute of Chicago and Yale University Press, 2010), pp. 30–31, cat. 2 (ill.). \n\nJames H. Rubin, Manet: Initial M, Hand and Eye (Paris: Flammarion, 2010), pp. 131, 134, fig. 17. \n\nGuy Cogeval, Stéphane Guégan, and Alice Thomine-Berrada, Birth of Impressionism: Masterpieces from the Musée d’Orsay (San Francisco, Munich, New York, and Paris: Fine Arts Museums of San Francisco, Del Monico Books, Prestel Pub., and Musée d’Orsay, 2010), pp. 235, fig. 44.\n\nPaul-Louis Durand-Ruel and Flavie Durand-Ruel, “The First Purchases of Paul Durand-Ruel from Édouard Manet, 1872–1873,” in Stéphane Guégan, et al., Manet: The Man Who Invented Modernity, exh. cat. (Gallimard/Musée d’Orsay, 2011), pp. 284–85.\n\nDouglas Druick, “Material Perspectives: The Art Object, the Art Museum, and the History of Art,” in Histoire de l’Art du XIXe Siècle (Paris: École du Louvre, 2012), pp. 276, figs. 4–5. \n\n“Manet, Cat. 10, Beggar with Oysters (Philosopher),” in Manet Paintings and Works on Paper at the Art Institute of Chicago (Art Institute of Chicago, 2017), <a href=\"https://publications.artic.edu/manet/reader/manetart/section/140020\">https://publications.artic.edu/manet/reader/manetart/section/140020</a>.",
+        "exhibition_history": "Paris, Avenue de l’Alma, Exposition particulière Manet, 1867, no. 31 or 32, as Philosophe.\n\nParis, Cercle de L’Union Artistique, 1870, no cat.\n\nParis, École Nationale des Beaux-Arts, Exposition posthume Manet, January 1884, cat. 29 or 30.\n\nNew York, National Academy of Design, Works in Oil and Pastel by the Impressionists of Paris, April 10–May 25, 1886, cat. 244.\n\nChicago, Art Institute of Chicago, Loan Exhibition of Selected Works of Old and Modern Masters Being the Annual Exhibition of the Antiquarians of the Art Institute, January 1–23, 1898, cat. 42.\n\nNew York, Durand-Ruel Galleries, Paintings by Édouard Manet, November 29–December 13, 1913.\n\nChicago, Art Institute of Chicago, Exhibition of Paintings from the Collection of the Late Arthur Jerome Eddy, September 19–October 22, 1922, cat. 52.\n\nChicago, Art Institute of Chicago, Exhibition of The Arthur Jerome Eddy Collection of Modern Painting and Sculpture, December 22, 1931–January 17, 1932, cat. 11.\n\nChicago, Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1–November 1, 1933, cat. 330.\n\nPhiladelphia, Pennsylvania Museum, Manet and Renoir, November–December 1933, no cat.\n\nChicago, Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1–November 1, 1934, cat. 251.\n\nPhiladelphia, Philadelphia Museum of Art, Édouard Manet 1832–1883, November 3–December 11, 1966; traveled to Chicago, Art Institute of Chicago, January 13–February 19, 1967, cat. 73 [Chicago venue only].\n\nParis, Galeries Nationales du Grand Palais, Manet 1832–1883, April 22–August 1, 1983, cat. 90; traveled to New York, Metropolitan Museum of Art, September 10–November 27, 1983.\n\nChicago, Art Institute of Chicago, Manet as a Printmaker: Works from the Permanent Collection, April 20–September 12, 1985, no cat.\n\nParis, Musée d’Orsay, Manet/Velasquèz: la manière espagnole au XIXe siècle, September 16, 2002–January 12, 2003, cat. 90; traveled to New York, Metropolitan Museum of Art, Manet/Velázquez. The French Taste for Spanish Painting, March 4–June 8, 2003, cat. 145.\n\nMadrid, Museo del Prado, Manet en el Prado, October 13, 2003–January 11, 2004, cat. 70.\n\nFort Worth, Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29–November 2, 2008, cat. 2.",
+        "provenance_text": "The artist, until 1872; sold to Durand-Ruel, Paris, January 1872, for 1,000 or 1,500 francs [per Durand-Ruel and Durand-Ruel, 2011, 284–85]; sold to Jean-Baptiste Faure (d. 1914), Paris, November 13, 1882, along with two other paintings for 5,750 francs (known as “Philosophies”) [per the Durand-Ruel, Paris, stock book for 1877 (as no. 1189) and in the stock book for 1880–84 (as no. 1171, Le Mendiant, and also as no. 2628, Le Philosophe); copy of archival reference in curatorial object file]; sold to Durand-Ruel, Paris, October 16, 1894, for 10,000 francs [this and the following per Durand-Ruel, Paris, stock book for 1891 (no. 3136); copy of archival reference in curatorial object file]; sold to Arthur Jerome Eddy (d. 1920), Chicago, October 16, 1894, for 20,000 francs; by descent to Mrs. Arthur Jerome Eddy (née Lucy C. Orrell) and Jerome O. Eddy, Chicago, by 1920; bequeathed to the Art Institute of Chicago, 1931.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 14,
+        "fiscal_year": 1930,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 10.5854,
+        "color": {
+          "h": 37,
+          "l": 51,
+          "s": 13,
+          "percentage": 0.0009023952852307424,
+          "population": 11
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": "<p>On loan to Norton Simon Museum of Art at Pasadena in Pasadena for <i>Masterpiece Exchange - Manet's Philosophers from the Art Institute of Chicago</i></p>",
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Painting",
+        "artwork_type_id": 1,
+        "department_title": "Painting and Sculpture of Europe",
+        "department_id": "PC-10",
+        "artist_id": 35577,
+        "artist_title": "Édouard Manet",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          35577
+        ],
+        "artist_titles": [
+          "Édouard Manet"
+        ],
+        "category_ids": [
+          "PC-10"
+        ],
+        "category_titles": [
+          "Painting and Sculpture of Europe"
+        ],
+        "artwork_catalogue_ids": [
+          null
+        ],
+        "term_titles": [
+          "painting",
+          "Realism",
+          "oil paint (paint)",
+          "Century of Progress",
+          "european painting",
+          "men",
+          "portraits",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "style_id": "TM-7548",
+        "style_title": "Realism",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-7548"
+        ],
+        "style_titles": [
+          "Realism"
+        ],
+        "classification_id": "TM-9",
+        "classification_title": "painting",
+        "alt_classification_ids": [
+          "TM-54"
+        ],
+        "classification_ids": [
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_titles": [
+          "painting",
+          "european painting"
+        ],
+        "subject_id": "TM-12169",
+        "alt_subject_ids": [
+          "TM-10121",
+          "TM-8658",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_ids": [
+          "TM-12169",
+          "TM-10121",
+          "TM-8658",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_titles": [
+          "Century of Progress",
+          "men",
+          "portraits",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "material_id": "TM-2451",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2451"
+        ],
+        "material_titles": [
+          "oil paint (paint)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "4e074d70-4424-331b-ec89-0776a45d6825",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [
+          39216521750
+        ],
+        "section_titles": [
+          "Cat. 10  Beggar with Oysters (Philosopher), 1865/67"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1931.504"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Beggar with Oysters (Philosopher)"
+            ],
+            "weight": 9972,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T00:30:01-06:00",
+        "last_updated": "2022-01-26T00:31:40-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 11312,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/11312",
+        "is_boosted": false,
+        "title": "Woman Mending",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEw/QE5BRU9DSE1ESVJFSllKUFlPVFtPVV9ZX25eXmtdYXZrZYt8cIx/dYF7epJ6dYiFfJCJfJiRhcK9rQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIMREk/M0EqIki3EMAUAUQggAOw==",
+          "width": 1850,
+          "height": 2250,
+          "alt_text": "A work made of oil on canvas."
+        },
+        "main_reference_number": "1959.636",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1895,
+        "date_end": 1895,
+        "date_display": "1895",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Camille Pissarro\nFrench, 1830-1903",
+        "place_of_origin": "France",
+        "dimensions": "65.4 × 54.4 cm (25 5/8 × 21 3/8 in.)",
+        "medium_display": "Oil on canvas",
+        "inscriptions": "Inscribed lower left: C. Pissarro 1895",
+        "credit_line": "Gift of Mrs. Leigh B. Block",
+        "publication_history": "Katalog over Martsudstillingen, 58 Vesterbrogade, exh. cat. (1911), p. 2, cat. 34.\n\nStafford Gallery, Exhibition of Pictures by Camille Pissarro, 1830–1903, exh. cat. (Stafford Gallery, 1911), p. 10, cat. 11.\n\nLudovic Rodo Pissarro and Lionello Venturi, Camille Pissarro: Son art—son oeuvre, vol. 1, Texte (P. Rosenberg, 1939), p. 210, cat. 934.\n\nLudovic Rodo Pissarro and Lionello Venturi, Camille Pissarro: Son art—son oeuvre, vol. 2, Planche (P. Rosenberg, 1939), pl. 189, cat. 934.\n\nJohn Rewald, Pissarro (Braun & Cie, [1940]), cat. 48 (ill.).\n\nFrederick A. Sweet, “Pissarro’s Young Woman Mending,” Art Institute of Chicago Quarterly 54, 2 (Apr. 1960), pp. 17–19 (ill.).\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Art Institute of Chicago, 1961), p. 359.\n\nCharles C. Cunningham and Satoshi Takahashi, Shikago bijutsukan [Art Institute of Chicago], Museums of the World 32 (Kodansha, 1970), pp. 48 (ill.), 162–63.\n\nJohn Maxon, The Art Institute of Chicago (Abrams, 1970), pp. 268 (ill.), 285.\n\nRaymond Cogniat, Pissarro (Flammarion, 1974), p. 73 (ill.).\n\nChristopher Lloyd, Pissarro (Phaidon, 1979), p. 15, pl. 34.\n\nRalph E. Shikes and Paula Harper, Pissarro: His Life and Work (Horizon, 1980), p. 291 (ill.).\n\nChristopher Lloyd, Camille Pissarro (Skira/Rizzoli, 1981), p. 98 (ill.).\n\nChristopher Lloyd, “Camille Pissarro: Towards a Reassessment,” Art International 25, 1–2 (Jan. 1982), p. 64 (ill.).\n\nArt Institute of Chicago, Seibu Museum of Art, Kyoto Municipal Museum of Art, and Fukuoka Art Museum, eds., Shikago bijutsukan insho-ha ten [The impressionist tradition: Masterpieces from the Art Institute of Chicago], trans. Akihiko Inoue, Hideo Namba, Heisaku Harada, and Yoko Maeda, exh. cat. (Nihon Nippon Television Network, 1985), pp. 104, cat. 49 (ill.); 105 (detail); 154, cat. 49 (ill.).\n\nJanine Bailly-Herzberg, ed., Correspondance de Camille Pissarro, vol. 4, 1895–1898 (Valhermeil, 1989), pp. 127 (letter 1181); 129, n. 2; 149 (letter 1199).\n\nArt Institute of Chicago, Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago, with an introduction by James N. Wood (Art Institute of Chicago/Abbeville, 1993), p. 126 (ill.).\n\nJoachim Pissarro, Camille Pissarro (Abrams, 1993), p. 169, cat. 179 (ill.).\n\nJoachim Pissarro and Stephanie Rachum, Camille Pissarro: Impressionist Innovator, exh. cat. (Israel Museum, Jerusalem, 1994), p. 56 (ill.).\n\nJoachim Pissarro and Claire Durand-Ruel Snollaerts, with the collaboration of Alexia de Buffévent and Annie Champié, Pissarro: Critical Catalogue of Paintings, vol. 1, trans. Mark Hutchinson and Michael Taylor (Skira/Wildenstein Institute, 2005), pp. 368, 369, 370, 386, 409.\n\nJoachim Pissarro and Claire Durand-Ruel Snollaerts, with the collaboration of Alexia de Buffévent and Annie Champié, Pissarro: Catalogue critique des peintures/Critical Catalogue of Paintings, vol. 3, trans. Mark Hutchinson and Michael Taylor (Skira/Wildenstein Institute, 2005), p. 694, cat. 1098 (ill.).\n\nTerence Maloon, ed., Camille Pissarro, exh. cat. (Art Gallery of New South Wales, 2005), pp. 207; 208, cat. 98 (ill.); 254.\n\nRichard Shiff, “The Restless Worker,” in Terence Maloon, ed., Camille Pissarro, exh. cat. (Art Gallery of New South Wales, 2005), p. 38.\n\nRichard Brettell, Pissarro’s People, exh. cat. (Fine Arts Museums of San Francisco/Sterling and Francine Clark Art Institute/Prestel, 2011), pp. 34–35, fig. 16; 190; 192–93, fig. 147; 268–69, fig. 230.\n\n“Cat. 15: Woman Mending, 1895,” in Pissarro Paintings and Works on Paper at the Art Institute of Chicago, eds. Gloria Groom and Genevieve Westerby (Art Institute of Chicago, 2015), <a href=\"https://publications.artic.edu/pissarro/reader/paintingsandpaper/section/8\">https://publications.artic.edu/pissarro/reader/paintingsandpaper/section/8</a>.",
+        "exhibition_history": "Copenhagen, Valdemar Kleis, Katalog over Martsudstillingen (1886–1911), Mar. 1911, cat. 34.\n\nLondon, Stafford Gallery, Pictures by Camille Pissarro, from Oct. 13, 1911, cat. 11.\n\nZurich, Switzerland, Moderne Galerie, Camille Pissarro, July 11–Aug. 31, 1913, cat. 7.\n\nParis, Galerie de l’Élysée, C. Pissarro: Des peintures et des pastels de 1880 à 1900 environ, Apr. 23–May 5, 1948, no cat.\n\nChicago, Mr. and Mrs. Leigh Block, Oct. 19, 1976–May 20, 1977, no cat.\n\nTokyo, Seibu Museum of Art, Shikago bijutsukan insho-ha ten [The impressionist tradition: Masterpieces from the Art Institute of Chicago], Oct. 18–Dec. 17, 1985, cat. 49 (ill.); Fukuoka Art Museum, Jan. 5–Feb. 2, 1986; Kyoto Municipal Museum of Art, Mar. 4–Apr. 13, 1986.\n\nArt Gallery of New South Wales, Camille Pissarro, Nov 19, 2005–Feb. 19, 2006, cat. 98 (ill.); Melbourne, National Gallery of Victoria, Mar. 4–May 28, 2006.\n\nKunstmuseum Basel, Camile Pissarro: The Studio of Modernism, Sep. 4, 2021-Jan. 23, 2022.",
+        "provenance_text": "The artist (d. 1903); by descent to his son, Ludovic-Rodolph (Rodo) Pissarro, Paris, 1904 [this and the two following per Pissarro and Snollaerts, 2005]; sold to Sam Saltz, New York, by December 1950; sold to Mrs. Mary Block (née Lasker), Chicago, December 1950; given to the Art Institute of Chicago, beginning in 1959 [in undivided fractional interests, receiving final fractional interest for one hundred percent ownership in 1961].",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 14,
+        "fiscal_year": 1960,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 17.9159,
+        "color": {
+          "h": 46,
+          "l": 47,
+          "s": 23,
+          "percentage": 0.0005786534733674738,
+          "population": 5
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Painting",
+        "artwork_type_id": 1,
+        "department_title": "Painting and Sculpture of Europe",
+        "department_id": "PC-10",
+        "artist_id": 36211,
+        "artist_title": "Camille Pissarro",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          36211
+        ],
+        "artist_titles": [
+          "Camille Pissarro"
+        ],
+        "category_ids": [
+          "PC-10"
+        ],
+        "category_titles": [
+          "Painting and Sculpture of Europe"
+        ],
+        "artwork_catalogue_ids": [],
+        "term_titles": [
+          "oil on canvas",
+          "Post-Impressionism",
+          "portraits",
+          "oil paint (paint)",
+          "painting",
+          "european painting",
+          "work",
+          "women",
+          "everyday life (genre)"
+        ],
+        "style_id": "TM-7547",
+        "style_title": "Post-Impressionism",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-7547"
+        ],
+        "style_titles": [
+          "Post-Impressionism"
+        ],
+        "classification_id": "TM-66",
+        "classification_title": "oil on canvas",
+        "alt_classification_ids": [
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_ids": [
+          "TM-66",
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_titles": [
+          "oil on canvas",
+          "painting",
+          "european painting"
+        ],
+        "subject_id": "TM-8658",
+        "alt_subject_ids": [
+          "TM-10093",
+          "TM-8735",
+          "TM-10096"
+        ],
+        "subject_ids": [
+          "TM-8658",
+          "TM-10093",
+          "TM-8735",
+          "TM-10096"
+        ],
+        "subject_titles": [
+          "portraits",
+          "work",
+          "women",
+          "everyday life (genre)"
+        ],
+        "material_id": "TM-2451",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2451"
+        ],
+        "material_titles": [
+          "oil paint (paint)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "132b782d-54e6-70e1-18f9-211468c09099",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [
+          622
+        ],
+        "section_titles": [
+          "Cat. 15  Woman Mending, 1895"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1959.636"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Woman Mending"
+            ],
+            "weight": 2187,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T00:30:01-06:00",
+        "last_updated": "2022-01-26T00:31:39-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 10550,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/10550",
+        "is_boosted": false,
+        "title": "The Dance",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADUlIjglIT4tJ0EvKUAwKUUxKUQyKUczKUQyKkg3Lko4LUs3MFE9MVBANmJPPWFNP29bRXdkUXplUJuJdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDIYCsI8xSFNgdBECwE4UAgAOw==",
+          "width": 5226,
+          "height": 6362,
+          "alt_text": "A work made of oil on canvas."
+        },
+        "main_reference_number": "1932.52",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1745,
+        "date_end": 1755,
+        "date_display": "c. 1750",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Pietro Longhi\nItalian, 1702–1785",
+        "place_of_origin": "Italy",
+        "dimensions": "24 1/4 × 19 1/2 in.",
+        "medium_display": "Oil on canvas",
+        "inscriptions": null,
+        "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "publishing_verification_level": "Web Basic",
+        "internal_department_id": 14,
+        "fiscal_year": 1932,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "colorfulness": 19.3809,
+        "color": {
+          "h": 38,
+          "l": 65,
+          "s": 22,
+          "percentage": 0.023929905887098705,
+          "population": 210
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": "<p>On loan to Tate Britain in London for <i>Hogarth and Europe</i></p>",
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Painting",
+        "artwork_type_id": 1,
+        "department_title": "Painting and Sculpture of Europe",
+        "department_id": "PC-10",
+        "artist_id": 35508,
+        "artist_title": "Pietro Longhi",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          35508
+        ],
+        "artist_titles": [
+          "Pietro Longhi"
+        ],
+        "category_ids": [
+          "PC-10"
+        ],
+        "category_titles": [
+          "Painting and Sculpture of Europe"
+        ],
+        "artwork_catalogue_ids": [
+          null
+        ],
+        "term_titles": [
+          "oil on canvas",
+          "Century of Progress",
+          "painting",
+          "european painting",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-66",
+        "classification_title": "oil on canvas",
+        "alt_classification_ids": [
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_ids": [
+          "TM-66",
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_titles": [
+          "oil on canvas",
+          "painting",
+          "european painting"
+        ],
+        "subject_id": "TM-12169",
+        "alt_subject_ids": [
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_ids": [
+          "TM-12169",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_titles": [
+          "Century of Progress",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "material_id": null,
+        "alt_material_ids": [],
+        "material_ids": [],
+        "material_titles": [],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "cb178a5a-6c55-c423-a186-d3d467a72f2f",
+        "alt_image_ids": [],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1932.52"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "The Dance"
+            ],
+            "weight": 2517,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T00:30:01-06:00",
+        "last_updated": "2022-01-26T00:31:39-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      },
+      {
+        "id": 16571,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/16571",
+        "is_boosted": true,
+        "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADU8QkROS0ZPU0hSVk1YXVFWUlBXXlFaWVNcWFFkV1plVVtjWmBnWmFqXmRrX05ZYFFaYlljbF5qbGNsY2ZydmlzdWRxeGdze2l1fWx3fG16enJ4fH+KioWOkZeam5yjqZ2lqrG1ubS6vwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQIKmYslQDoONp8ORBECi0OfyKEAMmAhAgFhMHA2GIhEEADs=",
+          "width": 6786,
+          "height": 5092,
+          "alt_text": "Loosely painted image of an open-air train station. On the right, a parked train gives off an enormous plumb of white smoke, making the scene look as though it were full of clouds. A huddled mass of barely discernible people crowd around the train on both sides of the tracks. Blue, green, and gray tones dominate."
+        },
+        "main_reference_number": "1933.1158",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1877,
+        "date_end": 1877,
+        "date_display": "1877",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Claude Monet\nFrench, 1840-1926",
+        "place_of_origin": "France",
+        "dimensions": "60.3 × 80.2 cm (23 3/4 × 31 1/2 in.)",
+        "medium_display": "Oil on canvas",
+        "inscriptions": "Inscribed, lower left: Claude Monet 77",
+        "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+        "publication_history": "Catalogue de la 3e exposition de peinture, exh. cat. (E. Capiomont et V. Renault, 1877), p. 9, cat. 97. \n\nA. P[othey], “Beaux arts,” Le petit parisien, Apr. 7, 1877, p. 2. \n\n“Exposition des impressionnistes: 6, rue Le Peletier; 6,” La petite république française Apr. 10, 1877, p. 2. Reprinted in Ruth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 1, Reviews(Fine Arts Museums of San Francisco/University of Washington Press, 1996), p. 176.\n\nErnest Fillonneau, “Les impessionnistes,” Moniteur des arts, Apr. 20, 1877, p. 1.\n\nCharles Bigot, “Causerie artistique. L’exposition des ‘impressionnistes,’” La revue politique et littéraire, Apr. 28, 1877, p. 1047.\n\nGustave Geffroy, “Salon de 1887. Hors du Salon: Claude Monet,” La justice, pt. 2, June 2, 1887, p. 1.\n\nGalerie Georges Petit, Claude Monet—A. Rodin, exh. cat. (Imp. de l’Art, 1889), p. 31, cat. 33. \n\nJ. A., “Beaux-Arts. Exposition de la galerie Georges Petit,” Art et critique 5 (June 29, 1889), p. 76.\n\nGustave Geffroy, “Histoire de l’impressionnisme,” La vie artistique 3, 2 (1894), p. 68. \n\nAndré Mellerio, L’exposition de 1900 et l’impressionnisme (H. Floury, 1900), p. 20.\n\nLudovic Baschet, ed., Catalogue officiel illustré de l’Exposition centennale de l’art français de 1800 à 1889, exh. cat. (Lemercier, 1900), p. 211, cat. 484. \n\nOctave Maus, Exposition des peintres impressionnistes, exh. cat. (Libre Esthétique, 1904), p. 39, cat. 98.\n\nArt Institute of Chicago, General Catalogue of Paintings Sculpture and Other Objects in the Museum (Art Institute of Chicago, 1914), p. 211, cat. 2138.\n\nGustave Geffroy, Claude Monet: Sa vie, son temps, son oeuvre (G. Crès, 1922) pp. 92; 118; opp. p. 136 (ill.); 272. \n\nCamille Mauclair, Claude Monet (F. Rieder, 1924), pp. 61; pl. 20. Translated by J. Lewis May as Claude Monet (Dodd, Mead, 1924), pp. 5; pl. 20. \n\nArt Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Art Institute of Chicago, 1925), p. 162, cat. 2140. \n\nM. C., “Monets in the Art Institute,” Bulletin of the Art Institute of Chicago 19, 2 (Feb. 1925), p. 19 (ill.).\n\nFlorent Fels, Claude Monet, Les peintres français nouveaux 22 (Gallimard, 1925), p. 45 (ill.).\n\nMadeleine Octave Maus, “Exposition des peintres impressionnistes,” in Trente années de lutte pour l’art, 1884–1914 (L’Oiseau Bleu, 1926), p. 323. \n\nLouis Réau, L’art français aux États-Unis: Ouvrage illustré de vingt-quatre planches hors texte (Henri Laurens, 1926), p. 163.\n\nLéon Werth, Claude Monet (G. Crès, 1928), pl. 26.\n\nXenia Lathom, Claude Monet (Philip Allan, 1931), pl. 16 (ill.).\n\nAnthony Bertram, Claude Monet, World’s Masters (Studio/William Edwin Rudge, 1931), pl. 11.\n\nDaniel Catton Rich, “The Paintings of Martin A. Ryerson,” Bulletin of the Art Institute of Chicago 27, 1 (Jan. 1933), pp. 9, 11 (ill.).\n\nArt Institute of Chicago, Catalogue of “A Century of Progress”: Exhibition of Paintings and Sculpture; Lent from American Collections, ed. Daniel Catton Rich, 3rd ed., exh. cat. (Art Institute of Chicago, 1933), p. 44, cat. 299.\n\nDaniel Catton Rich, “Französische Impressionisten im Art Institute zu Chicago,” Pantheon: Monatsschrift für freunde und sammler der kunst 11, 3 (Mar. 1933), p. 77. Translated by C. C. H. Drechsel as “French Impressionists in the Art Institute of Chicago,” Pantheon/Cicerone (Mar. 1933), p. 18.\n\nArt Institute of Chicago, Catalogue of “A Century of Progress”: Exhibition of Paintings and Sculpture, 1934, ed. Daniel Catton Rich, exh. cat. (Art Institute of Chicago, 1934), pp. 37–38, cat. 219.\n\nMuseum of Fine Arts, Boston, Independent Painters of Nineteenth Century Paris, exh. cat. (Museum of Fine Arts, Boston, [1935]), p. 24, cat. 32.\n\nArt Institute of Chicago, A Brief Illustrated Guide to the Collections (Art Institute of Chicago, 1935), p. 28. \n\nHans Tietze, Meisterwerke Europäischer Malerei in Amerika (Phaidon, 1935), pp. 289 (ill.); 344–45, no. 289.\n\nGeorge Slocombe, “Giver of Light,” Coronet (Mar. 1938), p. 20 (ill.).\n\nLionello Venturi, Les archives de l’impressionnisme: Lettres de Renoir, Monet, Pissarro, Sisley et autres; Mémoires de Paul Durand-Ruel; Documents, vol. 2 (Durand-Ruel, 1939), pp. 260, 303.\n\nThomas Craven, ed., A Treasury of Art Masterpieces, From the Renaissance to the Present Day (Simon & Schuster, 1939), pp. 506–07, pl. 123.\n\nWalter Pach, Catalogue of European and American Paintings, 1500–1900: Masterpieces of Art, New York World’s Fair, biographies and notes compiled by Christopher Lazare, with the assistance of Anne A. Wallis, Marion Haviland, and Simonetta de Vries, exh. cat. (Art Aid, [1940]), p. 223, cat. 322.\n\nAlfred M. Frankfurter, “383 Masterpieces of Art: The World’s Fair Exhibition of Paintings of Four Centuries Loaned from American Public and Private Collections,” Art News, May 25, 1940, pp. 41 (ill.), 64.\n\nRegina Shoolman and Charles E. Slatkin, The Enjoyment of Art in America, with an introduction by George Harold Edgell (Lippincott, 1942), pp. 557; 609, pl. 537.\n\nHans Huth, “Impressionism Comes to America,” Gazette des beaux-arts 29 (1946), pp. 238, fig. 13; 239, n. 22; 240.\n\nOscar Reuterswärd, Monet: En Konstnärshistorik (Bonniers, 1948), opposite p. 104 (ill.); pp. 112, 281.\n\nGeorge Besson, Claude Monet (1840–1926), Collection les maîtres 32 (Braun, [1949]), pl. 34. \n\nKenneth Clark, Landscape into Art (John Murray, 1949), pl. 89; p. 102.\n\nDayton Art Institute, The Railroad in Painting, exh. cat. (Dayton Art Institute, 1949), cat. 50 (ill.).\n\nMassachusetts Institute of Technology, The Painter and the City, ed. Gyorgy Kepes, with the assistance of Jane M. Bagg, exh. cat. (Massachusetts Institute of Technology, 1950), (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibtion: Masterpieces of Painting, exh. cat. (Philadelphia Museum of Art, 1950), cat. 70 (ill.).\n\nLionello Venturi, Impressionisti e Simbolisti: Da Manet a Lautrec (Del Turco, 1950), pp. 59; 211, fig. 56. Translated by Francis Steegmuller as Impressionists and Symbolists (Charles Scribner’s Sons, 1950), pp. 61; fig. 56.\n\nLouis Zara, ed., Masterpieces, Home Collection of Great Art 1 (Ziff-Davis, 1950), p. 118 (ill.).\n\nArt Institute of Chicago, Masterpieces in the Art Institute of Chicago (Art Institute of Chicago, 1952), n.pag. (ill.).\n\nM. K. R., “An Exhibition for Paris,” Art Institute of Chicago Quarterly 49, 2 (Apr. 1, 1955), pp. 28, 30.\n\nMusée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvre des collections américaines, exh. cat. (Musée de l’Orangerie, 1955), pp. 60–61, cat. 42 and pl. 41; 129, pl. 41 and cat. 42. James Thrall Soby, “Foreword/Introduction,” in Musée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvre des collections américaines, exh. cat. (Musée de l’Orangerie, 1955), pp. 20, 29.\n\nArt Institute of Chicago, “Homage to Claude Monet,” Art Institute of Chicago Quarterly 51, 2 (Apr. 1, 1957), pp. 21–22 (ill.).\n\nArt Institute of Chicago, “Catalogue,” Art Institute of Chicago Quarterly 51, 2 (Apr. 1, 1957), p. 33.\n\nDenis Rouart, Claude Monet, trans. James Emmons (Skira, 1958), p. 70.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Art Institute of Chicago, 1961), pp. 279 (ill.), 318–19. \n\nLeopold Reidemeister, Auf den Spuren der Maler der Ile de France: Topographische Beiträge zur Geschichte der französischen Landschaftsmalerei von Corot bis zu den Fauves (Propyläen, 1963), p. 114 (ill.).\n\nRemus Niculeseu, “Georges de Bellio, l’ami des impressionnistes,” Revue roumaine d’histoire de l’art 1, 2 (1964), pp. 215, 241, 250, 252, 253, 258, 264.\n\nHaus der Kunst München, Französische Malerei des 19. Jahrhunderts: Von David bis Cézanne, with a preface by Germain Bazin, exh. cat. (Haus der Kunst München [1964]), pp. 416–17, cat. 191 (ill.).\n\nFrederick A. Sweet, “Great Chicago Collectors,” Apollo 84 (Sept. 1966), pp. 201, fig. 31; 202.\n\nDaniel Wildenstein, “Claude Monet,” in Kindlers Malerei Lexikon, vol. 4 (Kindler, [1967]), pp. 464 (ill.), 470.\n\nMinneapolis Institute of Arts, The Past Rediscovered: French Paintings, 1800–1900, exh. cat. (Minneapolis Institute of Arts, 1969), pp. 18; 146–47, cat. 60 (ill.).\n\nRemus Niculescu, “Georges de Bellio, l’ami des Impressionnistes (I),” Paragone 247 (Sept. 1970), pp. 34, 40, 53. \n\nRemus Niculescu, “Georges de Bellio, l’ami des Impressionnistes (II),” Paragone 249 (Nov. 1970), pp. 47, n. 2; 62; 65–66. \n\nJohn Maxon, The Art Institute of Chicago (Abrams, 1970), p. 82 (ill.), 284. \n\nWildenstein and Company, “One Hundred Years of Impressionism”: A Tribute to Durand-Ruel, with a preface by Florence Gould, exh. cat. (Wildenstein, 1970), pl. 37.\n\nArt Institute of Chicago, “Lecturer’s Choice,” Bulletin of the Art Institute of Chicago 67, 4 (Jul. –Aug. 1973), p. 11.\n\nDonald E. Gordon, Modern Art Exhibitions, 1900–1916: Selected Catalogue Documentation, vol. 2 (Prestel, 1974), p. 90.\n\nDaniel Wildenstein, Claude Monet: Biographie et catalogue raisonné, vol. 1, Peintures, 1840–1881 (Bibliothèque des Arts, 1974), pp. 84; 304; 305, cat. 440 (ill.); 447, pièces justificatives 60–63, 65, 68.\n\nGrace Seiberling, “The Evolution of an Impressionist,” in Paintings by Monet, ed. Susan Wise, exh. cat. (Art Institute of Chicago, 1975), pp. 27, 28.\n\nSusan Wise, ed., Paintings by Monet, exh. cat. (Art Institute of Chicago, 1975), p. 96, cat. 42 (ill.).\n\nM. Therese Southgate, “About the Cover,” JAMA: The Journal of the American Medical Association 233, 3 (July 21, 1975), cover (ill.); p. 259 (ill.).\n\nGuy Hubbard and Mary J. Rouse, Art: Discovering and Creating (Benefic, 1977), p. 178 (ill.).\n\nArt Institute of Chicago, 100 Masterpieces (Art Institute of Chicago, 1978), pp. 92–93, pl. 50.\n\nLuigina Rossi Bortolatto, L’opera completa di Claude Monet: 1870–1889, Classici dell’arte 63 (Rizzoli, 1978), pp. 97, cat. 140 (ill.); 98.\n\nRoger Terry Dunn, “The Monet-Rodin Exhibition at the Galerie Georges Petit in 1889” (Ph.D. diss., Northwestern University, 1978), p. 247.\n\nDaniel Wildenstein, Claude Monet: Biographie et catalogue raisonné, vol. 3, Peintures, 1887–1898 (Bibliothèque des Arts, 1979), p. 249, letter 986.\n\nJ. Patrice Marandel, The Art Institute of Chicago: Favorite Impressionists Paintings (Crown, 1979), pp. 56, 57 (ill.).\n\nJ. Patrice Marandel, “New Installation of Earlier Paintings,” Bulletin of the Art Institute of Chicago 73, 1 (Jan.–Feb., 1979), p. 15 (ill.).\n\nRodolphe Walter, “Saint-Lazare l’impressionniste,” L’oeil 292 (Nov. 1979), pp. 52, 53.\n\nDiane Kelder, The Great Book of French Impressionism (Abbeville, 1980), p. 205 (ill.). \n\nDiane Kelder, The Great Book of French Impressionism, Tiny Folios (Abbeville, 1980), p. 121, pl. 13.\n\nTheodore Reff, Manet and Modern Paris, exh. cat. (National Gallery of Art, Washington, D.C./Eastern, 1982), pl. 7 and cat. 14.\n\nRobert Gordon and Andrew Forge, Monet (Abrams, 1983), pp. 77 (ill.), 290.\n\nAndrea P. A. Belloli, ed., A Day in the Country: Impressionism and the French Landscape, exh. cat. (Los Angeles County Museum of Art, 1984), p. 365.\n\nHélène Adhémar, “Ernest Hoschedé,” in Aspects of Monet: A Symposium on the Artist’s Life and Times, ed. John Rewald and Frances Weitzenhoffer (Abrams, 1984), pp. 69, n. 23; 70, n. 30.\n\nRichard R. Brettell, “The Impressionist Landscape and the Image of France,” in A Day in the Country: Impressionism and the French Landscape, ed. Andrea P. A. Belloli, exh. cat. (Los Angeles County Museum of Art, 1984), p. 48.\n\nSylvie Gache-Patin, “The Urban Landscape,” in A Day in the Country: Impressionism and the French Landscape, ed. Andrea P. A. Belloli, exh. cat. (Los Angeles County Museum of Art, 1984), pp. 114; 116; 125, no. 32 (ill.); 126.\n\nCharles F. Stuckey, ed., Monet: A Retrospective (Hugh Lauter Levin, 1985), p. 61 (ill.).\n\nRichard R. Brettell, “Le paysage impressionniste et l’image de la France,” in Réunion des Musées Nationaux, L’impressionnisme et le paysage français, exh. cat. (Réunion des Musées Nationaux, 1985), p. 39.\n\nSylvie Gache-Patin, “Le paysage urbain,” in Réunion des Musées Nationaux, L’impressionnisme et le paysage français, exh. cat. (Réunion des Musées Nationaux, 1985), pp. 184; 188; 190–91; 196–97, no. 70 (ill.).\n\nJohn House, “Monet and the Genesis of His Series,” in Auckland City Art Gallery, Claude Monet: Painter of Light, exh. cat. (Auckland City Art Gallery/NZI, 1985), pp. 12; 17, fig. 7.\n\nRichard H. Love, Theodore Earl Butler: Emergence from Monet’s Shadow (Haase-Mumm, 1985), pl. 9.\n\nGuy Cogeval, Les années post-impressionnistes (Nouvelles Éditions Françaises, 1986), p. 11, fig. 15.\n\nCharles S. Moffett, ed., The New Painting: Impressionism, 1874–1886, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 205; 222–23, cat. 51 (ill.).\n\nRichard R. Brettell, “The ‘First’ Exhibition of Impressionist Painters,” in The New Painting: Impressionism, 1874–1886, ed. Charles S. Moffett, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 189, 198.\n\nRichard R. Brettell, French Impressionists (Art Institute of Chicago/Abrams, 1987), front cover (detail); pp. 42 (ill.), 43, 118, back cover (ill.).\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood and Katharine C. Lee (Art Institute of Chicago/New York Graphic Society Books/Little, Brown, 1988), pp. 9, 59 (ill.), 167.\n\nClaire De Narbonne-Fontanieu, “Journey through a Cultural Landscape,” France Magazine 10 (Spring 1988), p. 20 (ill.).\n\nMusée Rodin, Claude Monet—Auguste Rodin: Centenaire de l’exposition de 1889, exh. cat. (Musée Rodin, 1989), pp. 54, 79 (ill.).\n\nAnne Distel, Les collectionneurs des impressionnistes (Bibliothèque des Arts, 1989), p. 115. Translated by Barbara Perroud-Benson as Impressionism, The First Collectors, 1874–1886 (Abrams, 1990), p. 115.\n\nDavid Bomford, Jo Kirby, John Leighton, and Ashok Roy, Art in the Making: Impressionism, exh. cat.(National Gallery, Washington, D.C./Yale University Press, 1990), pp. 166, pl. 163; 170–71.\n\nBernard L. Myers, Monet, Methods of the Masters (Brian Trodd, 1990), p. 67 (ill.).\n\nKarin Sagner-Düchting, Claude Monet, 1840–1926: Ein Fest für die Augen (Benedikt Taschen, 1990), pp. 95 (ill.), 96. Translated Karen Williams Claude Monet, 1840–1926: A Feast for the Eyes (Taschen, 2004), p. 95 (ill.), 96.\n\nNorma Broude, Impressionism: A Feminist Reading, The Gendering of Art, Science, and Nature in the Nineteenth Century (Rizzoli, 1991), pp. 74; 75; 108, pl. 30; 109, pl. 32 (detail).\n\nIngo F. Walther and Peter H. Feist, Malerei des Impressionismus, 1860–1920: Der Impressionismus in Frankreich, vol. 1 (Benedikt Taschen, 1992), pp. 152, 170 (ill.).\n\nSophie Fourny-Dargère, Monet, Profils de l’art (Chêne, 1992), pp. 82; 87, fig. 2.\n\nArt Institute of Chicago, The Art Institute of Chicago: The Essential Guide, selected by James N. Wood and Teri J. Edelstein, entries written and compiled by Sally Ruth May (Art Institute of Chicago, 1993), p. 155 (ill.). \n\nArt Institute of Chicago, Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago, with an introduction by James N. Wood (Art Institute of Chicago/Abbeville, 1993), p. 70 (ill.).\n\nJeffrey Coven, Baudelaire’s Voyages: The Poet and His Painters, exh. cat. (Heckscher Museum/Little, Brown, 1993), p. 90, fig. 56; 170.\n\nArt Institute of Chicago and Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], exh. cat. (Asahi Shinbunsha, 1994), pp. 52, cat. 7; 53 (ill.).\n\nCharles F. Stuckey, “Chicago’s Fortune: Patrons of Modern Paintings and The Art Institute of Chicago,” in Art Institute of Chicago and Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], exh. cat. (Asahi Shinbunsha, 1994), p. 18.\n\nGeorge T. M. Shackelford, “The Age of Impressionism,” in Emily Ballew Neff and George T. M. Shackelford, American Painters in the Age of Impressionism, exh. cat. (Museum of Fine Arts, Houston, 1994), pp. 19; 20, fig. 7.\n\nAndrew Forge, Monet, Artists in Focus (Art Institute of Chicago, 1995), pp. 22–24; 76, pl. 5; 106.\n\nCharles F. Stuckey, with the assistance of Sophia Shaw, Claude Monet, 1840–1926, exh. cat. (Art Institute of Chicago/Thames & Hudson, 1995), pp. 16, 73, cat. 50 (ill.); 202.\n\nLynn Federle Orr, “Monet: An Introduction,” in New Orleans Museum of Art and Fine Arts Museums of San Francisco, Monet: Late Paintings of Giverny from the Musée Marmottan, exh. cat. (New Orleans Museum of Art/Fine Arts Museums of San Francisco/Abrams, 1995), pp. 18; 19, fig. 5.\n\nRobert Rosenblum, “Impressionismen, byen og det modern liv,” in Impressionister i byen, ed. Anne-Birgitte Fonsmark and Mikael Wivel, exh. cat. (Ordrupgaard, 1996), pp. 16, fig. 5 and cat. 44; 18. Translated as “Impressionism, the City and Modern Life,” in Impressionists in Town, ed. Anne-Birgitte Fonsmark and Mikael Wivel, exh. cat. (Ordrupgaard, 1996), pp. 16, fig. 5 (cat. 44); 18.\n\nAnne-Birgitte Fonsmark and Mikael Wivel, eds., Impressionister i byen, exh. cat. (Ordrupgaard, 1996), p. 105, cat. 44. Translated as Impressionists in Town, exh. cat. (Ordrupgaard, 1996), p. 106, cat. 44.\n\nRuth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 1, Reviews (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 119, 134, 146, 173, 176.\n\nRuth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 2, Exhibited Works (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 76, 94 (ill.).\n\nDaniel Wildenstein, Monet, or The Triumph of Impressionism, cat. rais., vol. 1 (Taschen/Wildenstein Institute, 1996), pp. 125, 128.\n\nDaniel Wildenstein, Monet: Catalogue raisonné/Werkverzeichnis, vol. 2, Nos. 1–968 (Taschen/Wildenstein Institute, 1996), pp. 178, cat. 440 (ill.); 179–80.\n\nStephan Koja, Claude Monet, exh. cat. (Österreichische Galerie, Belvedere, Vienna/Prestel, 1996), pp. 67; 71, cat. 24 (ill.); 216. Translated by John Brownjohn as Claude Monet, exh. cat. (Österreichische Galerie/Prestel, 1996), pp. 67; 71, cat. 24 (ill.); 216.\n\nElisabeth West FitzHugh, ed., Artists’ Pigments: A Handbook of Their History and Characteristics, vol. 3 (National Gallery of Art, Washington, D.C./Oxford University Press, 1997), pp. 286; 287, fig. 12.\n\nM. Therese Southgate, The Art of JAMA: One Hundred Covers and Essays from the Journal of the American Medical Association (Mosby, 1997), pp. 8–9 (ill.).\n\nMeyer Schapiro, Impressionism: Reflections and Perceptions (Braziller, 1997), p. 104, fig 41.\n\nJuliet Wilson-Bareau, Manet, Monet, and the Gare Saint-Lazare, exh. cat. (National Gallery of Art, Washington, D.C./Yale University Press, 1998), frontispiece (detail); pp. 111; 112, fig. 99 (cat. 47); 188, n. 83; 199.\n\nJuliet Wilson-Bareau, Manet, Monet, la Gare Saint-Lazare, trans. Isabelle Taudière, exh. cat. (Réunion des Musées Nationaux/Yale University Press, 1998), frontispiece (detail); pp. 111; 112, fig. 99 (cat. 47); 189, n. 83.\n\nBrigitte Béranger-Menand, “Les huit expositions impressionnistes. Profil d’un groupe: 1874–1886,” in Alain Tapié, Brigitte Béranger-Menand, and Yona Beldimaw, Chemins de l’impressionnisme:Normandie–Paris,1860–1910, exh. cat. (Landesmuseum Joanneum, 1998), p. 26.\n\nEmily D. Bilski, Berlin Metropolis: Jews and the New Culture, 1890–1918, exh. cat. (University of California Press/Jewish Museum, 1999), pp. 119; 120, fig. 101.\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 1999), pp. 8, 54, 55 (ill.).\n\nSimonella Condemi and Andrew Forge, Claude Monet: La poesia della luce; Sette capolavori dell’Art Institute di Chicago a Palazzo Pitti, exh. cat. (Giunti Gruppo, 1999), pp. 26, 27 (ill.), 28, 29 (detail).\n\nThomas McBurney, Artistic Greatness: A Comparative Exploration of Michelangelo, Beethoven, and Monet (Galde Press, 1999), p. 277 (ill.)\n\nGina Frese, Dow Chemical Portrayed, exh. cat. (Chemical Heritage Foundation, 2000), pp. 4, 5 (ill.).\n\nArt Institute of Chicago, Impressionism and Post-Impressionism in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 2000), p. 54 (ill.).\n\nArt Institute of Chicago, Treasures from the Art Institute of Chicago, selected by James N. Wood, commentaries by Debra N. Mancoff (Art Institute of Chicago/Hudson Hills, 2000), pp. 183, 205 (ill.).\n\nRichard R. Brettell, Impression: Painting Quickly in France, 1860–1890, exh. cat. (Sterling and Francine Clark Art Institute/Yale University Press, 2000), p. 136, n. 27.\n\nA. G. Kostenevich, Klod Mone [Claude Monet], exh. cat. (Khudozhnik i Kniga, 2001), pp. 62–65; cat. 17 (ill. and detail).\n\nRichard R. Brettell, “Monet e Parigi,” in Monet: I luoghi della pittura, ed. Marco Goldin, exh. cat. (Linea d’Ombra, 2001), pp. 124, 125 (ill.).\n\nMarco Goldin, L’impressionismo e l’età di Van Gogh, exh. cat. (Linea d’Ombra, 2002), p. 43 (ill.).\n\nRichard R. Brettell, From Monet to Van Gogh: A History of Impressionism, vol. 2 (Teaching Co., 2002), pp. 6, 16, 174.\n\nJudith Hayward, “Nature and Progress: Winslow Homer, His Critics and His Oils, 1880–1900” (Ph.D. diss., Columbia University, 2003), pp. 172; 362; 385, ill. 48.\n\nMichel Laclotte, ed., The Art and Spirit of Paris, vol. 2 (Abbeville, 2003), p. 1049, fig. 6.127; 1052.\n\nRichard Thomson, “Monet 1870–1890: Evoluzione, tradizione e decorazione,” in Turner e gli impressionisti: La grande storia del paesaggio moderno in Europa, ed. Marco Goldin, exh. cat. (Linea d’Ombra/Museo di Santa Giulia, 2006), p. 261, n. 8.\n\nDavid L. Pike, Metropolis on the Styx: The Underworlds of Modern Urban Culture, 1800–2001 (Cornell University Press, 2007), pp. 221; 224, fig. 4.3.\n\nWildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 238, cat. 21 (ill.); 300–301; 303.\n\nJoseph Baillio and Cora Michael, “Chronological and Pictorial Survey of the Life and Career of Claude Monet,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), p. 166.\n\nJoseph Baillio and Cora Michael, “Highlights of the Exhibition,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 194; 195 (detail).\n\nKelly Crow, “For Charity, Gallery Plays Museum,” Wall Street Journal, May 25, 2007. http://online.wsj.com/article/SB118004588897613954.html (accessed Jan. 28, 2013).\n\nLance Esplund, “A Whole New Light,” New York Sun, May 17, 2007. http://www.nysun.com/arts/whole-new-light/54648/(accessed Jan. 28, 2013).\n\nPaul Hayes Tucker, “Some Notes on Monet’s Practice,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 74, fig. 12; 75.\n\nRichard Kendall, “Claude Monet, New York,” Burlington Magazine (July 2007), p. 511.\n\nRoberta Smith, “Monet Arrives and Ripens,” New York Times, May 4, 2007, p. E28.\n\nEric M. Zafran, “Monet in America,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), p. 113.\n\nGloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Impressionists: Master Paintings from the Art Institute of Chicago, exh. cat. (Art Institute of Chicago/Kimbell Art Museum, 2008), pp. 19 (ill.); 54 (detail); 55, cat. 17 (ill.); 57. Simultaneously published as Gloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Age of Impressionism at the Art Institute of Chicago (Art Institute of Chicago/Yale University Press, 2008), pp. 19 (ill.); 54 (detail); 55, cat. 17 (ill.); 57. \n\nJames H. Rubin, Impressionism and the Modern Landscape: Productivity, Technology, and Urbanization from Manet to Van Gogh (University of California Press, 2008), p. 116.\n\nIan Kennedy, “Impressionism and Post-Impressionism,” in Ian Kennedy and Julian Treuherz, The Railway: Art in the Age of Steam, exh. cat. (Nelson-Atkins Museum of Art/Walker Art Gallery, Liverpool/Yale University Press, 2008), p. 159, fig. 56.\n\nJonathan Mane-Wheoki, “Monet’s Impressions of the Industrial Environment,” in George T. M. Shackelford, Monet and the Impressionists, exh. cat. (Art Gallery of New South Wales/Yale University Press, 2008), p. 149, fig. 33.\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James Cuno (Art Institute of Chicago/Yale University Press, 2009), pp. 9, 54, 55 (ill.).\n\nClaudia Beltramo Ceppi, Monet: Il tempo delle ninfee, exh. cat. (Palazzo Reale/Giunti, 2009), pp. 33, fig. 18; 37.\n\nBrian Dudley Barrett, Artist on the Edge: The Rise of Coastal Artists’ Colonies, 1880–1920, with Particular Reference to Artists’ Communities around the North Sea (Amsterdam University Press, 2010), p. 43 (ill.).\n\nMary Mathews Gedo, Monet and His Muse: Camille Monet in the Artist’s Life (University of Chicago Press, 2010), pp. 189; 190, fig. 13.1.\n\nSégolène Le Men, Monet (Citadelles & Mazenod, 2010), pp. 19; 194; 216; 217, ill. 172; 218.\n\nRéunion des Musées Nationaux, Claude Monet, 1840–1926, exh. cat. (Réunion des Musées Nationaux/Musée d’Orsay, 2010), p. 153, cat. 44 (ill.).\n\nJohn House, “Le sujet chez Monet,” in Réunion des Musées Nationaux, Claude Monet, 1840–1926, exh. cat. (Réunion des Musées Nationaux/Musée d’Orsay, 2010), pp. 23, 27.\n\nPaul Stelkens, “Die Hensmann–Villa in Grosskönigsdorf,” in Egon Heeg, Axel Kurth, and Peter Schreiner, eds., Königsdorf im Rheinland, Pulheimer Beiträge zur Geschichte, Sonderveröffentlichung 34 (Verein für Geschichte, 2011), pp. 425, fig. 32; 427; 478, n. 28.\n\n“Cat. 16: Arrival of the Normandy Train, Gare Saint-Lazare, 1877” in Monet Paintings and Drawings at the Art Institute of Chicago, ed. Gloria Groom and Jill Shaw (Art Institute of Chicago, 2014), <a href=\"https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470\">https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470</a>.\n\nCaroline Shields, Impressionism in the Age of Industry, exh. cat. (Friesens, 2019), 26-29, 50-54, 122-123, 240.\n\nGloria Groom, et. al. Monet and Chicago, exh. Cat. (Chicago: Art Institute, 2020), 16, 24, 26, 32 fig. 11, 52 (detail ill.), 53 cat. 18, 131.",
+        "exhibition_history": "Paris, 6, rue Le Peletier, 3e exposition de peinture [third Impressionist exhibition], Apr. 1877, cat. 97, as Arrivée du train de Normandie, gare St-Lazare, appartient à M. H . . . .\n\nParis, Galerie Georges Petit, 6e exposition international e de peinture et de sculpture, May 8–June 8, 1887, no cat. no. \n\nParis, Galerie Georges Petit, Claude Monet—A. Rodin, June 21–Sept. 21, 1889, cat. 33, as Gare Saint-Lazare. 1877. Appartient à M. de Bellio. \n\nParis, Grand Palais des Champs-Élysées, Exposition Universelle de 1900, L’exposition centennale de l’art français de 1800 a 1889, May 1–Nov. 12, 1900, cat. 484, as Le Train de Normandie (à M. Alexandre Bernheim jeune [sic]). \n\nBrussels, Libre Esthétique, Exposition des peintres impressionnistes, Feb. 25–Mar. 29, 1904, cat. 98, as La Gare Saint-Lazare. Exposition centennale, 1900. Appartient à MM. J. et G. Bernheim jeune [sic].\n\nNew York, Durand-Ruel, Monet, Dec. 2–23, 1911, cat. 8. \n\nArt Institute of Chicago, “A Century of Progress”: Loan Exhibition of Paintings and Sculpture, May 23–Nov. 1, 1933, cat. 299.\n\nArt Institute of Chicago, “A Century of Progress”: Loan Exhibition of Paintings and Sculpture for 1934, June 1–Oct. 31, 1934, cat. 219. \n\nBoston, Museum of Fine Arts, Independent Painters of Nineteenth Century Paris, Mar. 15–Apr. 28, 1935, cat. 32.\n\nNew York World’s Fair, European & American Paintings, 1500–1900: Masterpieces of Art, May–Oct. 1940, cat. 322.\n\nDayton (Ohio) Art Institute, The Railroad in Painting: An Exhibition of Paintings Shown at the Dayton Art Institute, Apr. 19–May 22, 1949, cat. 50 (ill.).\n\nCambridge, Massachusetts Institute of Technology, Charles Hayden Memorial Library, The Painter and the City, May 8–June 15, 1950, no cat. no. (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibition: Masterpieces of Painting, Nov. 3, 1950–Feb. 11, 1951, cat. 70 (ill.). \n\nParis, Musée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvres des collections américaines, Apr. 20–July 3, 1955, cat. 42 (ill.). \n\nArt Institute of Chicago, The Paintings of Claude Monet, Apr. 1–June 15, 1957, no cat. no. \n\nMunich, Haus der Kunst München, Französische Malerei des 19. Jahrhunderts: Von David bis Cézanne, Oct. 7, 1964–Jan. 6, 1965, cat. 191 (ill.).\n\nMinneapolis Institute of Arts, The Past Rediscovered: French Painting, 1800–1900, July 3–Sept. 7, 1969, cat. 60 (ill.).\n\nNew York, Wildenstein and Company, “One Hundred Years of Impressionism:” A Tribute to Durand-Ruel, Apr. 2–May 9, 1970, cat. 37 (ill.).\n\nArt Institute of Chicago, Paintings by Monet, Mar. 15–May 11, 1975, cat. 42 (ill.). \n\nArt Institute of Chicago, Art at the Time of the Centennial, June 19–Aug. 8, 1976, no cat. \n\nWashington, D.C., National Gallery of Art, Manet and Modern Paris, Dec. 5, 1982–Mar. 6, 1983, cat. 14 (ill.).\n\nLos Angeles County Museum of Art, A Day in the Country: Impressionism and the French Landscape, June 28–Sept. 16, 1984, cat. 32 (ill.); Art Institute of Chicago, Oct. 23, 1984–Jan. 6, 1985; Paris, Galeries Nationales, Grand Palais, as L’impressionnisme et le paysage français, Feb. 4–Apr. 22, 1985, cat. 70 (ill.).\n\nWashington, D.C., National Gallery of Art, The New Painting: Impressionism, 1874–1886, Jan. 17–Apr. 6, 1986, cat. 51 (ill.); Fine Arts Museums of San Francisco and M. H. de Young Memorial Museum, Apr. 19–July 6, 1986.\n\nArt Institute of Chicago, Chicago’s Dream, a World’s Treasure: The Art Institute of Chicago, 1893–1993, Nov. 1, 1993–Jan. 9, 1994, not in cat. \n\nNagaoka, Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], Apr. 20–May 29, 1994, cat. 7 (ill.); Nagoya, Aichi Prefectural Museum of Art, June 10–July 24, 1994; Yokohama Museum of Art, Aug. 6–Sept. 25, 1994.\n\nArt Institute of Chicago, Claude Monet, 1840–1926, July 22–Nov. 26, 1995, cat. 50 (ill.).\n\nVienna, Österreichische Galerie, Claude Monet, Mar. 14–June 16, 1996, cat. 24 (ill.).\n\nCopenhagen, Ordrupgaard, Impressionister i byen, Sept. 6–Dec. 1, 1996, cat. 44 (ill.).\n\nParis, Musée d’Orsay, Manet, Monet and the Gare Saint-Lazare, Feb. 9–May 17, 1998, cat. 47 (ill.); Washington, D.C., National Gallery of Art, June 14–Sept. 20, 1998.\n\nFlorence, Sala Bianca di Palazzo Pitti, Claude Monet: La poesia della luce; Sette capolavori dell’Art Institute di Chicago a Palazzo Pitti, June 2–Aug. 29, 1999, no cat. no. (ill.).\n\nMoscow, State Pushkin Museum of Fine Arts, Klod Mone [Claude Monet], Nov. 26, 2001–Feb. 21, 2002, cat. 17 (ill.), Saint Petersburg, State Hermitage Museum, May 1–15, 2002. \n\nNew York, Wildenstein and Company, Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, April 27–June 15, 2007, cat. 21 (ill.).\n\nFort Worth, Tex., Kimbell Art Museum, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29–Nov. 2, 2008, cat. 17 (ill.).\n\nParis, Galeries Nationales, Grand Palais, Claude Monet, 1840–1926, Sept. 22, 2010–Jan. 24, 2011, cat. 44 (ill.).\n\nMunich, Städel Museum, Monet and the Birth of Impressionism, March 11-June 21, 2015, cat. 85.\n\nArt Institute of Chicago, John Singer Sargent and Chicago's Gilded Age, June 27-Septembet 30, 2018.\n\nToronto, Art Gallery of Ontario, Impressionism in the Age of Industry, February 16 - May 5 2019\n\nArt Institute of Chicago, Monet and Chicago, September 5, 2020-June 14, 2021, cat. 18.\n\nBrussels, Musees royaux des beaux-arts de Belgique, Tracks to Modernity, Oct. 13, 2021-Feb. 13, 2022.\n\nParis, Musée d’Orsay, Enfin le cinéma! Arts, images et spectacles en France 1833-1907, Sep. 27, 2021-Jan. 16, 2022; Loas Angeles County Museum of Art, City of Cinema: Paris 1850-1907, Feb. 20-July 10, 2022 [Los Angeles only]",
+        "provenance_text": "The artist (d. 1926); sold to Ernest Hoschedé, Paris and Montgeron, Mar. 1877 [this and the following per Wildenstein 1996]. Georges de Bellio (d. 1894), Paris, 1878; by descent his daughter Victorine (de Bellio) Donop de Monchy and son-in-law Eugène Donop de Monchy, Paris, 1894 [per Niculescu, Paragone 249 (Nov. 1970)]. Bernheim-Jeune, Paris, around 1899 [this and the following per Wildenstein 1996]. Paul Rosenberg, Paris, by Oct. 13, 1911; sold to Durand-Ruel, Paris, Oct. 13, 1911, for 13,000 francs [per Durand-Ruel, Paris, stock book for 1901 (no. 9749, as La gare Saint-Lazare, le train de Normandie), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, to the Art Institute of Chicago, Oct. 5, 2010, curatorial object file]. Durand-Ruel, New York, by Dec. 16, 1911 [this and the following per Durand-Ruel, New York, stock book for 1904–24 (no. 3502, as Paris la gare Saint-Lazare), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, to the Art Institute of Chicago, Oct. 5, 2010, curatorial object file]; sold to Martin A. Ryerson (d. 1932), Chicago, Dec. 16, 1911, for $7,000; bequeathed to the Art Institute of Chicago, 1933.",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 14,
+        "fiscal_year": 1933,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": true,
+        "has_educational_resources": false,
+        "colorfulness": 13.9542,
+        "color": {
+          "h": 6,
+          "l": 34,
+          "s": 53,
+          "percentage": 0.00018769614246888,
+          "population": 1
+        },
+        "latitude": 41.8796393562979,
+        "longitude": -87.6233766797276,
+        "latlon": "41.879639356298,41.879639356298",
+        "is_on_view": false,
+        "on_loan_display": "<p>On loan to Musées royaux des beaux-arts de Belgique in Brussels for <i>Tracks To Modernity</i></p>",
+        "gallery_title": null,
+        "gallery_id": null,
+        "artwork_type_title": "Painting",
+        "artwork_type_id": 1,
+        "department_title": "Painting and Sculpture of Europe",
+        "department_id": "PC-10",
+        "artist_id": 35809,
+        "artist_title": "Claude Monet",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          35809
+        ],
+        "artist_titles": [
+          "Claude Monet"
+        ],
+        "category_ids": [
+          "PC-10"
+        ],
+        "category_titles": [
+          "Painting and Sculpture of Europe"
+        ],
+        "artwork_catalogue_ids": [
+          null
+        ],
+        "term_titles": [
+          "painting",
+          "Impressionism",
+          "landscapes",
+          "oil painting",
+          "oil paint (paint)",
+          "european painting",
+          "painting (image making)",
+          "urban life",
+          "transportation",
+          "Century of Progress",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "style_id": "TM-7543",
+        "style_title": "Impressionism",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-7543"
+        ],
+        "style_titles": [
+          "Impressionism"
+        ],
+        "classification_id": "TM-9",
+        "classification_title": "painting",
+        "alt_classification_ids": [
+          "TM-54"
+        ],
+        "classification_ids": [
+          "TM-9",
+          "TM-54"
+        ],
+        "classification_titles": [
+          "painting",
+          "european painting"
+        ],
+        "subject_id": "TM-8657",
+        "alt_subject_ids": [
+          "TM-10126",
+          "TM-8668",
+          "TM-12169",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_ids": [
+          "TM-8657",
+          "TM-10126",
+          "TM-8668",
+          "TM-12169",
+          "TM-11299",
+          "TM-12176"
+        ],
+        "subject_titles": [
+          "landscapes",
+          "urban life",
+          "transportation",
+          "Century of Progress",
+          "world's fairs",
+          "Chicago World's Fairs"
+        ],
+        "material_id": "TM-2451",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2451"
+        ],
+        "material_titles": [
+          "oil paint (paint)"
+        ],
+        "technique_id": "TM-4273",
+        "alt_technique_ids": [
+          "TM-3891"
+        ],
+        "technique_ids": [
+          "TM-4273",
+          "TM-3891"
+        ],
+        "technique_titles": [
+          "oil painting",
+          "painting (image making)"
+        ],
+        "theme_titles": [],
+        "image_id": "0f1cc0e0-e42e-be16-3f71-2022da38cb93",
+        "alt_image_ids": [],
+        "document_ids": [
+          "b0f825a6-e1e9-8607-b925-fd4d2e3b70f2",
+          "ec7cf803-7d44-ff3c-ad45-79cb5dc5f820"
+        ],
+        "sound_ids": [
+          "ec7cf803-7d44-ff3c-ad45-79cb5dc5f820"
+        ],
+        "video_ids": [],
+        "text_ids": [
+          "b0f825a6-e1e9-8607-b925-fd4d2e3b70f2"
+        ],
+        "section_ids": [
+          36725107186
+        ],
+        "section_titles": [
+          "Cat. 16  Arrival of the Normandy Train, Gare Saint-Lazare, 1877"
+        ],
+        "site_ids": [],
+        "suggest_autocomplete_boosted": "Arrival of the Normandy Train, Gare Saint-Lazare",
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1933.1158"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Arrival of the Normandy Train, Gare Saint-Lazare"
+            ],
+            "weight": 86286,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "last_updated_source": "2022-01-26T00:30:01-06:00",
+        "last_updated": "2022-01-26T00:31:38-06:00",
+        "timestamp": "2022-01-26T10:36:23-06:00"
+      }
+    ],
+    "info": {
+      "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+      "license_links": [
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://www.artic.edu/terms"
+      ],
+      "version": "1.2"
+    },
+    "config": {
+      "iiif_url": "https://www.artic.edu/iiif/2",
+      "website_url": "http://www.artic.edu"
+    }
+  },
+  "search": {
+    "preference": null,
+    "pagination": {
+      "total": 144,
+      "limit": 10,
+      "offset": 0,
+      "total_pages": 15,
+      "current_page": 1
+    },
+    "data": [
+      {
+        "_score": 216.7774,
+        "thumbnail": {
+          "alt_text": "A work made of white gouache on gelatin silver prints, cut torn and tipped together.",
+          "width": 5700,
+          "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACspJ0M/O0xHQUdIR11bV2BgXn16d4+RkpiZmbi2s7y9u8fEwMjFws/PzNfV1N3Z1ODe3OPg3eLi4eLj4ejm4unq6+3s6/Hx8fb29gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoNRAFjYVA3IpBHBUiRAYDvUwSxQCADs=",
+          "height": 6000
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/158891",
+        "id": 158891,
+        "title": "20 Years of Solitude",
+        "timestamp": "2021-12-21T12:28:21-06:00"
+      },
+      {
+        "_score": 213.65402,
+        "thumbnail": {
+          "alt_text": "A work made of woodcut with additions in acrylic and shellac on ivory wove paper.",
+          "width": 3000,
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEpFOFZSRmtjVGlkVmRjWnJrXnxyYHt1ZX14bH58b4F4Z46Bao+HdZCGdJGHd5aMeZOOgpuSgpqTg5uThJyThJqYh6CXhqGZiKKbjKKcjqKcj6yikamllrSsnLOtore3qry7ssG9ssfEuwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwE8lQXBsQBzGAWBYSDoWRGBw0WAeCkGhEfJMIhRIRhQEADs=",
+          "height": 2025
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/106542",
+        "id": 106542,
+        "title": "Ways of Worldly Wisdom: Hermann's Battle",
+        "timestamp": "2021-12-21T12:21:05-06:00"
+      },
+      {
+        "_score": 206.90071,
+        "thumbnail": {
+          "alt_text": "A work made of oil, emulsion, shellac, straw, and lead on canvas.",
+          "width": 3000,
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACIiHSMjICknIC0pICwrIy8vLjgzJzs2LzU0MTg3MDo3MTs4MTo4NUE9NEJBOkdCPz8/QEJBQUNCQkJCQ0VDQkZFRUhGRUxIQVJNR1BNSlJQTk1OU19ZU1FSWVtaWFxaWV9cWl9cXWNaTmZjZWVlbHBwenN0fXh2fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQA+pdDJ1NhNNaATKOBKAhwVS+TAQgQJFEsEoDoLFhSNqEAaGIAA7",
+          "height": 1765
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/104086",
+        "id": 104086,
+        "title": "The Order of the Angels (Die Ordnung der Engel)",
+        "timestamp": "2021-12-21T12:20:42-06:00"
+      },
+      {
+        "_score": 201.36464,
+        "thumbnail": {
+          "alt_text": "A work made of 9-page book of silver leaf and paint on gelatin silver prints, bound with lead covers.",
+          "width": 7100,
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFNQTFRQTFlUT1VUUFVUUltYU1tZVGxWQmBdV3hgRmdjXmlkXWtlXGxlXWxmXnVjUnhrW2VjYG5sZHBrZHFrZH50Z3p2bXt3b3x5dIJxXop+boV/dYqAcIqCdYeDe4OCfIyGe5iRhpyUhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwA9GwlBEGiHQ5uJ4JCaWDidzgFAqGpGHsCgEBggDQBAEADs=",
+          "height": 4980
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/158890",
+        "id": 158890,
+        "title": "Heavy Water",
+        "timestamp": "2021-12-21T12:28:21-06:00"
+      },
+      {
+        "_score": 151.36682,
+        "thumbnail": {
+          "alt_text": "A work made of gelatin silver print, from the series \"occupations 1969 (besetzungen 1969)\".",
+          "width": 2371,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGhnZWpoZXBwbXFwbXV0cnl3c3x6d4GAfoWEgIuJhY2Lh46NiJGOipWSjqSinauoorGvqrOyrbWyrLi2sgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MMATWIoARQ5BSIMy3QQUggAOw==",
+          "height": 3343
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/229981",
+        "id": 229981,
+        "title": "Occupation 1969 (Besetzung 1969)",
+        "timestamp": "2022-01-25T12:36:07-06:00"
+      },
+      {
+        "_score": 85.89494,
+        "thumbnail": {
+          "alt_text": "A work made of woodcuts in black, with opaque black and white paints and touches of watercolor, on ivory asian paper, bound.",
+          "width": 3866,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI2Cb5uKbpyOd5yRfaeTcqGQdKKRdqKSd6aTdauWdaKSeKGUf6KVfqiYfa6bfaubgaucg6ycgaycg6qdhwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFAEy+EgkDEAj5IQEhM1UwgAOw==",
+          "height": 5276
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/248342",
+        "id": 248342,
+        "title": "Weg der Weltweisheit die Hermannsschlacht (Ways of Worldly Wisdom: Hermann’s Battle)",
+        "timestamp": "2021-12-21T12:34:58-06:00"
+      },
+      {
+        "_score": 53.040882,
+        "thumbnail": {
+          "alt_text": "A work made of acrylic on canvas.",
+          "width": 1859,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFuNu12Qs2emxnOiwJ+apbOkp82HgfGimf6km+y6r/C0qM+swp3E3bzIx77R397M1eDF0Ojg3vvt5Pnw5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDNFyeBIisBAh/EsSAEERAgAOw==",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/210682",
+        "id": 210682,
+        "title": "Carnival",
+        "timestamp": "2021-12-21T12:31:35-06:00"
+      },
+      {
+        "_score": 47.998844,
+        "thumbnail": {
+          "alt_text": "A work made of oil on canvas.",
+          "width": 2860,
+          "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAACUYDiUaDygbDygdECsfETMhDy0gEDAhEDEjEDgmEUAtFEMyFllFLVJMNG1dQGVmR3xqR3RqSXlpTYqBV4CCW5yOXKCWabGmdsGvfLytgc23gceyiNO9jtXAigAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4IRlWvVY3cZdlAMxUtQoyGAsRyAQQFKEADs=",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/4776",
+        "id": 4776,
+        "title": "The Keeper of the Herd",
+        "timestamp": "2021-12-21T12:07:21-06:00"
+      },
+      {
+        "_score": 47.984768,
+        "thumbnail": {
+          "alt_text": "A work made of engraving on paper.",
+          "width": 2473,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEtIQFpVSF1ZS1tYTWRfUHBrWomDcZSMeZWPep+ajKGahaCai6afiqWfjr62ob21ose/qsO9rcO+sM7HtQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJMszxEQClMISDMAxiRFUAgAOw==",
+          "height": 3000
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/12190",
+        "id": 12190,
+        "title": "The Rat Killer",
+        "timestamp": "2021-12-21T12:08:16-06:00"
+      },
+      {
+        "_score": 36.013596,
+        "thumbnail": {
+          "alt_text": "A work made of platinum-palladium print; edition 27/28.",
+          "width": 3084,
+          "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAFlUS2BbUG5saHJtYXJvZXx5b4F8coqDdIqEeJ6ZjpyakqKckKejmKyona6roq6spbCsocXCuM7MxNHOxNHOxdTRx9XSyNbTyd7d1AAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIHIsBkANDRFIRQJVQsRY1zM5mBICADs=",
+          "height": 2954
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/144804",
+        "id": 144804,
+        "title": "Frederick Kiesler & Willem de Kooning, New York",
+        "timestamp": "2022-01-25T23:04:07-06:00"
+      }
+    ],
+    "info": {
+      "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+      "license_links": [
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://www.artic.edu/terms"
+      ],
+      "version": "1.2"
+    }
+  }
+}

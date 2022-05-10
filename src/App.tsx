@@ -1,4 +1,6 @@
-import './App.scss';
+import "./App.scss";
+
+import React from "react";
 
 const App = () => {
   return (
@@ -16,6 +18,6 @@ const App = () => {
       </footer>
     </div>
   );
-}
+};
 
 export default App;

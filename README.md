@@ -1,13 +1,12 @@
-# Leap Inc JavaScript Technical Interview
+# *Leap, Inc.* React Technical Interview
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-Welcome!
-
-## Description
 In this interview we're going to use some React fundamentals to retrieve a list of galleries from the Art Institute of Chicago's API and formatting the results.
 
 You'll find some high level user stories below that your interviewer will review with you. Feel free to ask questions and clarify the stories as you would in a working situation.
+
+![](./docs/assets/2022-05-09_23-09-52.gif)
 
 Feel free to use whatever resources you would in your normal day to day including web search etc.
 
@@ -17,70 +16,44 @@ Feel free to use whatever resources you would in your normal day to day includin
 
 ## Requirements
 
-* Node/NPM
+* Node/Yarn
 
 ## Installation
 
 ```
-$ npm i
+$ yarn
 ```
 
 ## Usage
 
-This repo was bootstrapped with [Create React App](https://create-react-app.dev/). In the project directory, you can run:
+This repo was bootstrapped with [Create React App](https://create-react-app.dev/).
 
-### `npm start`
+In the project directory, run—
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+$ yarn start
+````
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.\
-All test files can be found in [src/__tests__]().
+Then open [http://localhost:3000](http://localhost:3000) to view it in browser (in dev mode).
 
 ## Instructions
 
-Below you will find two stories for creating a simple React app using the Art Institute of Chicago's API.
+Below you will find stories for creating a React app using the Art Institute of Chicago's API.
 
 ### Retrieves a list of Galleries from the Art Institute of Chicago's API and render it in the test app
 
-```
-As a User
-I want to be presented with a list of galleries
-So I can browse the contents of each
+> As a User \
+> I want to be presented with a list of galleries \
+> So I can browse the contents of each
 
-The list should include the values from the "title" and "floor" properties
-```
+The list should—
+* include the value from `title` property,
+* return a list of available galleries ([API docs](https://api.artic.edu/docs/#galleries)),
+* provide the ability retrieve paginated results, and
+* provide the ability to show different size pages based on `limit`.
 
-* It should return a list of available Galleries ([API docs](https://api.artic.edu/docs/#galleries)).
-* It should provide the ability retrieve paginated results.
-* It should provide the ability to show different size pages based on "limit".
+### Remove galleries from list where `is_closed` is true
 
-### Remove galleries from list where "is_closed" is true.
-
-```
-As a User
-In order to avoid false positives
-I should only see galleries where the "is_closed" status is false.
-````
-
-### Style the list in the app
-
-```
-As a User
-I want to be more engaged with this gallery app
-I should be presented with this list in a way that is visually appealling
-```
-
-* The list should render as a grid with each list item separated by a `1rem` gutter on all sides.
-* Each list item should be styled as a `card` using the following styles:
-```
-border: 1px solid #888;
-border-radius: .5rem;
-padding: 1rem;
-```
+> As a User \
+> In order to avoid false positives \
+> I should only see galleries where `is_closed` is false
